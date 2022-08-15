@@ -1,0 +1,513 @@
+{
+    "deck": "french_words",
+    "description": "Top 100 most common french words",
+    "question_header": "French",
+    "answer_header": "English",
+    "questions": {
+        "question_number_0": {
+            "question": "partie",
+            "answer": "part",
+            "know_it": 0
+        },
+        "question_number_1": {
+            "question": "histoire",
+            "answer": "history",
+            "know_it": 0
+        },
+        "question_number_2": {
+            "question": "chercher",
+            "answer": "search",
+            "know_it": 0
+        },
+        "question_number_3": {
+            "question": "seulement",
+            "answer": "only",
+            "know_it": 0
+        },
+        "question_number_4": {
+            "question": "police",
+            "answer": "police",
+            "know_it": 0
+        },
+        "question_number_5": {
+            "question": "pensais",
+            "answer": "thought",
+            "know_it": 0
+        },
+        "question_number_6": {
+            "question": "aide",
+            "answer": "help",
+            "know_it": 0
+        },
+        "question_number_7": {
+            "question": "demande",
+            "answer": "request",
+            "know_it": 0
+        },
+        "question_number_8": {
+            "question": "genre",
+            "answer": "kind",
+            "know_it": 0
+        },
+        "question_number_9": {
+            "question": "mois",
+            "answer": "month",
+            "know_it": 0
+        },
+        "question_number_10": {
+            "question": "fr\u00e8re",
+            "answer": "brother",
+            "know_it": 0
+        },
+        "question_number_11": {
+            "question": "laisser",
+            "answer": "let",
+            "know_it": 0
+        },
+        "question_number_12": {
+            "question": "car",
+            "answer": "because",
+            "know_it": 0
+        },
+        "question_number_13": {
+            "question": "mettre",
+            "answer": "to put",
+            "know_it": 0
+        },
+        "question_number_14": {
+            "question": "aucun",
+            "answer": "no",
+            "know_it": 0
+        },
+        "question_number_15": {
+            "question": "laisse",
+            "answer": "leash",
+            "know_it": 0
+        },
+        "question_number_16": {
+            "question": "eux",
+            "answer": "them",
+            "know_it": 0
+        },
+        "question_number_17": {
+            "question": "ville",
+            "answer": "city",
+            "know_it": 0
+        },
+        "question_number_18": {
+            "question": "chaque",
+            "answer": "each",
+            "know_it": 0
+        },
+        "question_number_19": {
+            "question": "parl\u00e9",
+            "answer": "speak",
+            "know_it": 0
+        },
+        "question_number_20": {
+            "question": "arriv\u00e9",
+            "answer": "come",
+            "know_it": 0
+        },
+        "question_number_21": {
+            "question": "devrait",
+            "answer": "should",
+            "know_it": 0
+        },
+        "question_number_22": {
+            "question": "b\u00e9b\u00e9",
+            "answer": "baby",
+            "know_it": 0
+        },
+        "question_number_23": {
+            "question": "longtemps",
+            "answer": "long time",
+            "know_it": 0
+        },
+        "question_number_24": {
+            "question": "heures",
+            "answer": "hours",
+            "know_it": 0
+        },
+        "question_number_25": {
+            "question": "vont",
+            "answer": "will",
+            "know_it": 0
+        },
+        "question_number_26": {
+            "question": "pendant",
+            "answer": "while",
+            "know_it": 0
+        },
+        "question_number_27": {
+            "question": "revoir",
+            "answer": "meet again",
+            "know_it": 0
+        },
+        "question_number_28": {
+            "question": "aucune",
+            "answer": "any",
+            "know_it": 0
+        },
+        "question_number_29": {
+            "question": "place",
+            "answer": "square",
+            "know_it": 0
+        },
+        "question_number_30": {
+            "question": "parle",
+            "answer": "speak",
+            "know_it": 0
+        },
+        "question_number_31": {
+            "question": "compris",
+            "answer": "understood",
+            "know_it": 0
+        },
+        "question_number_32": {
+            "question": "savais",
+            "answer": "knew",
+            "know_it": 0
+        },
+        "question_number_33": {
+            "question": "\u00e9taient",
+            "answer": "were",
+            "know_it": 0
+        },
+        "question_number_34": {
+            "question": "attention",
+            "answer": "Warning",
+            "know_it": 0
+        },
+        "question_number_35": {
+            "question": "voici",
+            "answer": "here is",
+            "know_it": 0
+        },
+        "question_number_36": {
+            "question": "pourrais",
+            "answer": "could",
+            "know_it": 0
+        },
+        "question_number_37": {
+            "question": "affaire",
+            "answer": "case",
+            "know_it": 0
+        },
+        "question_number_38": {
+            "question": "donner",
+            "answer": "give",
+            "know_it": 0
+        },
+        "question_number_39": {
+            "question": "type",
+            "answer": "type",
+            "know_it": 0
+        },
+        "question_number_40": {
+            "question": "leurs",
+            "answer": "their",
+            "know_it": 0
+        },
+        "question_number_41": {
+            "question": "donn\u00e9",
+            "answer": "given",
+            "know_it": 0
+        },
+        "question_number_42": {
+            "question": "train",
+            "answer": "train",
+            "know_it": 0
+        },
+        "question_number_43": {
+            "question": "corps",
+            "answer": "body",
+            "know_it": 0
+        },
+        "question_number_44": {
+            "question": "endroit",
+            "answer": "place",
+            "know_it": 0
+        },
+        "question_number_45": {
+            "question": "yeux",
+            "answer": "eyes",
+            "know_it": 0
+        },
+        "question_number_46": {
+            "question": "fa\u00e7on",
+            "answer": "way",
+            "know_it": 0
+        },
+        "question_number_47": {
+            "question": "\u00e9coute",
+            "answer": "listen",
+            "know_it": 0
+        },
+        "question_number_48": {
+            "question": "dont",
+            "answer": "whose",
+            "know_it": 0
+        },
+        "question_number_49": {
+            "question": "trouve",
+            "answer": "find",
+            "know_it": 0
+        },
+        "question_number_50": {
+            "question": "premier",
+            "answer": "first",
+            "know_it": 0
+        },
+        "question_number_51": {
+            "question": "perdu",
+            "answer": "lost",
+            "know_it": 0
+        },
+        "question_number_52": {
+            "question": "main",
+            "answer": "hand",
+            "know_it": 0
+        },
+        "question_number_53": {
+            "question": "premi\u00e8re",
+            "answer": "first",
+            "know_it": 0
+        },
+        "question_number_54": {
+            "question": "c\u00f4t\u00e9",
+            "answer": "side",
+            "know_it": 0
+        },
+        "question_number_55": {
+            "question": "pouvoir",
+            "answer": "power",
+            "know_it": 0
+        },
+        "question_number_56": {
+            "question": "vieux",
+            "answer": "old",
+            "know_it": 0
+        },
+        "question_number_57": {
+            "question": "sois",
+            "answer": "be",
+            "know_it": 0
+        },
+        "question_number_58": {
+            "question": "tiens",
+            "answer": "here",
+            "know_it": 0
+        },
+        "question_number_59": {
+            "question": "matin",
+            "answer": "morning",
+            "know_it": 0
+        },
+        "question_number_60": {
+            "question": "tellement",
+            "answer": "so much",
+            "know_it": 0
+        },
+        "question_number_61": {
+            "question": "enfant",
+            "answer": "child",
+            "know_it": 0
+        },
+        "question_number_62": {
+            "question": "point",
+            "answer": "point",
+            "know_it": 0
+        },
+        "question_number_63": {
+            "question": "venu",
+            "answer": "came",
+            "know_it": 0
+        },
+        "question_number_64": {
+            "question": "suite",
+            "answer": "after",
+            "know_it": 0
+        },
+        "question_number_65": {
+            "question": "pardon",
+            "answer": "sorry",
+            "know_it": 0
+        },
+        "question_number_66": {
+            "question": "venez",
+            "answer": "come",
+            "know_it": 0
+        },
+        "question_number_67": {
+            "question": "devant",
+            "answer": "in front of",
+            "know_it": 0
+        },
+        "question_number_68": {
+            "question": "vers",
+            "answer": "towards",
+            "know_it": 0
+        },
+        "question_number_69": {
+            "question": "minutes",
+            "answer": "minutes",
+            "know_it": 0
+        },
+        "question_number_70": {
+            "question": "demand\u00e9",
+            "answer": "request",
+            "know_it": 0
+        },
+        "question_number_71": {
+            "question": "chambre",
+            "answer": "bedroom",
+            "know_it": 0
+        },
+        "question_number_72": {
+            "question": "mis",
+            "answer": "placed",
+            "know_it": 0
+        },
+        "question_number_73": {
+            "question": "belle",
+            "answer": "beautiful",
+            "know_it": 0
+        },
+        "question_number_74": {
+            "question": "droit",
+            "answer": "law",
+            "know_it": 0
+        },
+        "question_number_75": {
+            "question": "aimerais",
+            "answer": "would like to",
+            "know_it": 0
+        },
+        "question_number_76": {
+            "question": "aujourd'hui",
+            "answer": "today",
+            "know_it": 0
+        },
+        "question_number_77": {
+            "question": "mari",
+            "answer": "husband",
+            "know_it": 0
+        },
+        "question_number_78": {
+            "question": "cause",
+            "answer": "cause",
+            "know_it": 0
+        },
+        "question_number_79": {
+            "question": "enfin",
+            "answer": "finally",
+            "know_it": 0
+        },
+        "question_number_80": {
+            "question": "esp\u00e8re",
+            "answer": "hope",
+            "know_it": 0
+        },
+        "question_number_81": {
+            "question": "eau",
+            "answer": "water",
+            "know_it": 0
+        },
+        "question_number_82": {
+            "question": "attendez",
+            "answer": "Wait",
+            "know_it": 0
+        },
+        "question_number_83": {
+            "question": "parti",
+            "answer": "left",
+            "know_it": 0
+        },
+        "question_number_84": {
+            "question": "nouvelle",
+            "answer": "new",
+            "know_it": 0
+        },
+        "question_number_85": {
+            "question": "boulot",
+            "answer": "job",
+            "know_it": 0
+        },
+        "question_number_86": {
+            "question": "arr\u00eater",
+            "answer": "Stop",
+            "know_it": 0
+        },
+        "question_number_87": {
+            "question": "dirait",
+            "answer": "would say",
+            "know_it": 0
+        },
+        "question_number_88": {
+            "question": "terre",
+            "answer": "Earth",
+            "know_it": 0
+        },
+        "question_number_89": {
+            "question": "compte",
+            "answer": "account",
+            "know_it": 0
+        },
+        "question_number_90": {
+            "question": "donne",
+            "answer": "given",
+            "know_it": 0
+        },
+        "question_number_91": {
+            "question": "loin",
+            "answer": "far",
+            "know_it": 0
+        },
+        "question_number_92": {
+            "question": "fin",
+            "answer": "end",
+            "know_it": 0
+        },
+        "question_number_93": {
+            "question": "croire",
+            "answer": "believe",
+            "know_it": 0
+        },
+        "question_number_94": {
+            "question": "ch\u00e9rie",
+            "answer": "sweetheart",
+            "know_it": 0
+        },
+        "question_number_95": {
+            "question": "gros",
+            "answer": "large",
+            "know_it": 0
+        },
+        "question_number_96": {
+            "question": "plut\u00f4t",
+            "answer": "rather",
+            "know_it": 0
+        },
+        "question_number_97": {
+            "question": "aura",
+            "answer": "will have",
+            "know_it": 0
+        },
+        "question_number_98": {
+            "question": "filles",
+            "answer": "girls",
+            "know_it": 0
+        },
+        "question_number_99": {
+            "question": "jouer",
+            "answer": "to play",
+            "know_it": 0
+        },
+        "question_number_100": {
+            "question": "bureau",
+            "answer": "office",
+            "know_it": 0
+        }
+    }
+}
