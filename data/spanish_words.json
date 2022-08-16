@@ -1,0 +1,5008 @@
+{
+    "deck": "spanish_words",
+    "description": "Top 100 most common Spanish words",
+    "question_header": "spanish",
+    "answer_header": "english",
+    "questions": {
+        "question_number_0": {
+            "question": "est\u00e1",
+            "answer": "this",
+            "know_it": 0
+        },
+        "question_number_1": {
+            "question": "que",
+            "answer": "that",
+            "know_it": 0
+        },
+        "question_number_2": {
+            "question": "de",
+            "answer": "of",
+            "know_it": 0
+        },
+        "question_number_3": {
+            "question": "no",
+            "answer": "No",
+            "know_it": 0
+        },
+        "question_number_4": {
+            "question": "a",
+            "answer": "a",
+            "know_it": 0
+        },
+        "question_number_5": {
+            "question": "la",
+            "answer": "the",
+            "know_it": 0
+        },
+        "question_number_6": {
+            "question": "el",
+            "answer": "the",
+            "know_it": 0
+        },
+        "question_number_7": {
+            "question": "es",
+            "answer": "it is",
+            "know_it": 0
+        },
+        "question_number_8": {
+            "question": "y",
+            "answer": "Y",
+            "know_it": 0
+        },
+        "question_number_9": {
+            "question": "en",
+            "answer": "in",
+            "know_it": 0
+        },
+        "question_number_10": {
+            "question": "lo",
+            "answer": "it",
+            "know_it": 0
+        },
+        "question_number_11": {
+            "question": "un",
+            "answer": "a",
+            "know_it": 0
+        },
+        "question_number_12": {
+            "question": "por",
+            "answer": "by",
+            "know_it": 0
+        },
+        "question_number_13": {
+            "question": "qu\u00e9",
+            "answer": "what",
+            "know_it": 0
+        },
+        "question_number_14": {
+            "question": "me",
+            "answer": "I",
+            "know_it": 0
+        },
+        "question_number_15": {
+            "question": "una",
+            "answer": "a",
+            "know_it": 0
+        },
+        "question_number_16": {
+            "question": "te",
+            "answer": "tea",
+            "know_it": 0
+        },
+        "question_number_17": {
+            "question": "los",
+            "answer": "the",
+            "know_it": 0
+        },
+        "question_number_18": {
+            "question": "se",
+            "answer": "I know",
+            "know_it": 0
+        },
+        "question_number_19": {
+            "question": "con",
+            "answer": "with",
+            "know_it": 0
+        },
+        "question_number_20": {
+            "question": "para",
+            "answer": "for",
+            "know_it": 0
+        },
+        "question_number_21": {
+            "question": "mi",
+            "answer": "me",
+            "know_it": 0
+        },
+        "question_number_22": {
+            "question": "si",
+            "answer": "Yes",
+            "know_it": 0
+        },
+        "question_number_23": {
+            "question": "bien",
+            "answer": "right",
+            "know_it": 0
+        },
+        "question_number_24": {
+            "question": "pero",
+            "answer": "but",
+            "know_it": 0
+        },
+        "question_number_25": {
+            "question": "yo",
+            "answer": "me",
+            "know_it": 0
+        },
+        "question_number_26": {
+            "question": "eso",
+            "answer": "it's",
+            "know_it": 0
+        },
+        "question_number_27": {
+            "question": "las",
+            "answer": "the",
+            "know_it": 0
+        },
+        "question_number_28": {
+            "question": "s\u00ed",
+            "answer": "Yes",
+            "know_it": 0
+        },
+        "question_number_29": {
+            "question": "su",
+            "answer": "its",
+            "know_it": 0
+        },
+        "question_number_30": {
+            "question": "tu",
+            "answer": "your",
+            "know_it": 0
+        },
+        "question_number_31": {
+            "question": "aqu\u00ed",
+            "answer": "here",
+            "know_it": 0
+        },
+        "question_number_32": {
+            "question": "del",
+            "answer": "of",
+            "know_it": 0
+        },
+        "question_number_33": {
+            "question": "al",
+            "answer": "to the",
+            "know_it": 0
+        },
+        "question_number_34": {
+            "question": "como",
+            "answer": "What",
+            "know_it": 0
+        },
+        "question_number_35": {
+            "question": "le",
+            "answer": "you",
+            "know_it": 0
+        },
+        "question_number_36": {
+            "question": "m\u00e1s",
+            "answer": "plus",
+            "know_it": 0
+        },
+        "question_number_37": {
+            "question": "esto",
+            "answer": "this",
+            "know_it": 0
+        },
+        "question_number_38": {
+            "question": "ya",
+            "answer": "Already",
+            "know_it": 0
+        },
+        "question_number_39": {
+            "question": "todo",
+            "answer": "all",
+            "know_it": 0
+        },
+        "question_number_40": {
+            "question": "esta",
+            "answer": "is",
+            "know_it": 0
+        },
+        "question_number_41": {
+            "question": "vamos",
+            "answer": "we go",
+            "know_it": 0
+        },
+        "question_number_42": {
+            "question": "muy",
+            "answer": "very",
+            "know_it": 0
+        },
+        "question_number_43": {
+            "question": "hay",
+            "answer": "there are",
+            "know_it": 0
+        },
+        "question_number_44": {
+            "question": "ahora",
+            "answer": "now",
+            "know_it": 0
+        },
+        "question_number_45": {
+            "question": "algo",
+            "answer": "something",
+            "know_it": 0
+        },
+        "question_number_46": {
+            "question": "estoy",
+            "answer": "am",
+            "know_it": 0
+        },
+        "question_number_47": {
+            "question": "tengo",
+            "answer": "I've got",
+            "know_it": 0
+        },
+        "question_number_48": {
+            "question": "nos",
+            "answer": "us",
+            "know_it": 0
+        },
+        "question_number_49": {
+            "question": "t\u00fa",
+            "answer": "your",
+            "know_it": 0
+        },
+        "question_number_50": {
+            "question": "nada",
+            "answer": "any",
+            "know_it": 0
+        },
+        "question_number_51": {
+            "question": "cuando",
+            "answer": "when",
+            "know_it": 0
+        },
+        "question_number_52": {
+            "question": "ha",
+            "answer": "he has",
+            "know_it": 0
+        },
+        "question_number_53": {
+            "question": "este",
+            "answer": "East",
+            "know_it": 0
+        },
+        "question_number_54": {
+            "question": "s\u00e9",
+            "answer": "HE",
+            "know_it": 0
+        },
+        "question_number_55": {
+            "question": "est\u00e1s",
+            "answer": "are",
+            "know_it": 0
+        },
+        "question_number_56": {
+            "question": "as\u00ed",
+            "answer": "So",
+            "know_it": 0
+        },
+        "question_number_57": {
+            "question": "puedo",
+            "answer": "Can I",
+            "know_it": 0
+        },
+        "question_number_58": {
+            "question": "c\u00f3mo",
+            "answer": "What",
+            "know_it": 0
+        },
+        "question_number_59": {
+            "question": "quiero",
+            "answer": "I want",
+            "know_it": 0
+        },
+        "question_number_60": {
+            "question": "s\u00f3lo",
+            "answer": "single",
+            "know_it": 0
+        },
+        "question_number_61": {
+            "question": "soy",
+            "answer": "am",
+            "know_it": 0
+        },
+        "question_number_62": {
+            "question": "tiene",
+            "answer": "have",
+            "know_it": 0
+        },
+        "question_number_63": {
+            "question": "gracias",
+            "answer": "Thank you",
+            "know_it": 0
+        },
+        "question_number_64": {
+            "question": "o",
+            "answer": "either",
+            "know_it": 0
+        },
+        "question_number_65": {
+            "question": "\u00e9l",
+            "answer": "the",
+            "know_it": 0
+        },
+        "question_number_66": {
+            "question": "bueno",
+            "answer": "Okay",
+            "know_it": 0
+        },
+        "question_number_67": {
+            "question": "fue",
+            "answer": "it was",
+            "know_it": 0
+        },
+        "question_number_68": {
+            "question": "ser",
+            "answer": "be",
+            "know_it": 0
+        },
+        "question_number_69": {
+            "question": "hacer",
+            "answer": "do",
+            "know_it": 0
+        },
+        "question_number_70": {
+            "question": "son",
+            "answer": "are",
+            "know_it": 0
+        },
+        "question_number_71": {
+            "question": "todos",
+            "answer": "everybody",
+            "know_it": 0
+        },
+        "question_number_72": {
+            "question": "era",
+            "answer": "it was",
+            "know_it": 0
+        },
+        "question_number_73": {
+            "question": "eres",
+            "answer": "are",
+            "know_it": 0
+        },
+        "question_number_74": {
+            "question": "vez",
+            "answer": "time",
+            "know_it": 0
+        },
+        "question_number_75": {
+            "question": "tienes",
+            "answer": "you have",
+            "know_it": 0
+        },
+        "question_number_76": {
+            "question": "creo",
+            "answer": "I think",
+            "know_it": 0
+        },
+        "question_number_77": {
+            "question": "ella",
+            "answer": "she",
+            "know_it": 0
+        },
+        "question_number_78": {
+            "question": "he",
+            "answer": "He",
+            "know_it": 0
+        },
+        "question_number_79": {
+            "question": "ese",
+            "answer": "that",
+            "know_it": 0
+        },
+        "question_number_80": {
+            "question": "voy",
+            "answer": "I go",
+            "know_it": 0
+        },
+        "question_number_81": {
+            "question": "puede",
+            "answer": "can",
+            "know_it": 0
+        },
+        "question_number_82": {
+            "question": "sabes",
+            "answer": "you know",
+            "know_it": 0
+        },
+        "question_number_83": {
+            "question": "hola",
+            "answer": "hello",
+            "know_it": 0
+        },
+        "question_number_84": {
+            "question": "sus",
+            "answer": "their",
+            "know_it": 0
+        },
+        "question_number_85": {
+            "question": "porque",
+            "answer": "because",
+            "know_it": 0
+        },
+        "question_number_86": {
+            "question": "dios",
+            "answer": "god",
+            "know_it": 0
+        },
+        "question_number_87": {
+            "question": "qui\u00e9n",
+            "answer": "who",
+            "know_it": 0
+        },
+        "question_number_88": {
+            "question": "nunca",
+            "answer": "never",
+            "know_it": 0
+        },
+        "question_number_89": {
+            "question": "d\u00f3nde",
+            "answer": "where",
+            "know_it": 0
+        },
+        "question_number_90": {
+            "question": "quieres",
+            "answer": "you want",
+            "know_it": 0
+        },
+        "question_number_91": {
+            "question": "casa",
+            "answer": "House",
+            "know_it": 0
+        },
+        "question_number_92": {
+            "question": "favor",
+            "answer": "favour",
+            "know_it": 0
+        },
+        "question_number_93": {
+            "question": "esa",
+            "answer": "this",
+            "know_it": 0
+        },
+        "question_number_94": {
+            "question": "dos",
+            "answer": "two",
+            "know_it": 0
+        },
+        "question_number_95": {
+            "question": "tan",
+            "answer": "so",
+            "know_it": 0
+        },
+        "question_number_96": {
+            "question": "se\u00f1or",
+            "answer": "mister",
+            "know_it": 0
+        },
+        "question_number_97": {
+            "question": "tiempo",
+            "answer": "weather",
+            "know_it": 0
+        },
+        "question_number_98": {
+            "question": "verdad",
+            "answer": "TRUE",
+            "know_it": 0
+        },
+        "question_number_99": {
+            "question": "estaba",
+            "answer": "I was",
+            "know_it": 0
+        },
+        "question_number_100": {
+            "question": "mejor",
+            "answer": "better",
+            "know_it": 0
+        },
+        "question_number_101": {
+            "question": "est\u00e1n",
+            "answer": "is it so",
+            "know_it": 0
+        },
+        "question_number_102": {
+            "question": "va",
+            "answer": "goes",
+            "know_it": 0
+        },
+        "question_number_103": {
+            "question": "hombre",
+            "answer": "men",
+            "know_it": 0
+        },
+        "question_number_104": {
+            "question": "usted",
+            "answer": "you",
+            "know_it": 0
+        },
+        "question_number_105": {
+            "question": "mucho",
+            "answer": "much",
+            "know_it": 0
+        },
+        "question_number_106": {
+            "question": "hace",
+            "answer": "does",
+            "know_it": 0
+        },
+        "question_number_107": {
+            "question": "entonces",
+            "answer": "then",
+            "know_it": 0
+        },
+        "question_number_108": {
+            "question": "siento",
+            "answer": "I feel",
+            "know_it": 0
+        },
+        "question_number_109": {
+            "question": "tenemos",
+            "answer": "we have",
+            "know_it": 0
+        },
+        "question_number_110": {
+            "question": "puedes",
+            "answer": "you may",
+            "know_it": 0
+        },
+        "question_number_111": {
+            "question": "ah\u00ed",
+            "answer": "there",
+            "know_it": 0
+        },
+        "question_number_112": {
+            "question": "ti",
+            "answer": "you",
+            "know_it": 0
+        },
+        "question_number_113": {
+            "question": "vida",
+            "answer": "life",
+            "know_it": 0
+        },
+        "question_number_114": {
+            "question": "ver",
+            "answer": "watch",
+            "know_it": 0
+        },
+        "question_number_115": {
+            "question": "alguien",
+            "answer": "someone",
+            "know_it": 0
+        },
+        "question_number_116": {
+            "question": "sr",
+            "answer": "Mr",
+            "know_it": 0
+        },
+        "question_number_117": {
+            "question": "hasta",
+            "answer": "until",
+            "know_it": 0
+        },
+        "question_number_118": {
+            "question": "sin",
+            "answer": "without",
+            "know_it": 0
+        },
+        "question_number_119": {
+            "question": "m\u00ed",
+            "answer": "my",
+            "know_it": 0
+        },
+        "question_number_120": {
+            "question": "solo",
+            "answer": "only",
+            "know_it": 0
+        },
+        "question_number_121": {
+            "question": "a\u00f1os",
+            "answer": "years",
+            "know_it": 0
+        },
+        "question_number_122": {
+            "question": "sobre",
+            "answer": "on",
+            "know_it": 0
+        },
+        "question_number_123": {
+            "question": "decir",
+            "answer": "tell",
+            "know_it": 0
+        },
+        "question_number_124": {
+            "question": "uno",
+            "answer": "one",
+            "know_it": 0
+        },
+        "question_number_125": {
+            "question": "siempre",
+            "answer": "forever",
+            "know_it": 0
+        },
+        "question_number_126": {
+            "question": "oh",
+            "answer": "Oh",
+            "know_it": 0
+        },
+        "question_number_127": {
+            "question": "ir",
+            "answer": "to go",
+            "know_it": 0
+        },
+        "question_number_128": {
+            "question": "cosas",
+            "answer": "stuff",
+            "know_it": 0
+        },
+        "question_number_129": {
+            "question": "tambi\u00e9n",
+            "answer": "also",
+            "know_it": 0
+        },
+        "question_number_130": {
+            "question": "antes",
+            "answer": "before",
+            "know_it": 0
+        },
+        "question_number_131": {
+            "question": "has",
+            "answer": "you have",
+            "know_it": 0
+        },
+        "question_number_132": {
+            "question": "ni",
+            "answer": "neither",
+            "know_it": 0
+        },
+        "question_number_133": {
+            "question": "mis",
+            "answer": "my",
+            "know_it": 0
+        },
+        "question_number_134": {
+            "question": "d\u00eda",
+            "answer": "day",
+            "know_it": 0
+        },
+        "question_number_135": {
+            "question": "estar",
+            "answer": "be",
+            "know_it": 0
+        },
+        "question_number_136": {
+            "question": "estamos",
+            "answer": "we're",
+            "know_it": 0
+        },
+        "question_number_137": {
+            "question": "noche",
+            "answer": "night",
+            "know_it": 0
+        },
+        "question_number_138": {
+            "question": "nadie",
+            "answer": "no one",
+            "know_it": 0
+        },
+        "question_number_139": {
+            "question": "otra",
+            "answer": "other",
+            "know_it": 0
+        },
+        "question_number_140": {
+            "question": "quiere",
+            "answer": "wants",
+            "know_it": 0
+        },
+        "question_number_141": {
+            "question": "parece",
+            "answer": "It seems",
+            "know_it": 0
+        },
+        "question_number_142": {
+            "question": "nosotros",
+            "answer": "us",
+            "know_it": 0
+        },
+        "question_number_143": {
+            "question": "poco",
+            "answer": "little bit",
+            "know_it": 0
+        },
+        "question_number_144": {
+            "question": "padre",
+            "answer": "dad",
+            "know_it": 0
+        },
+        "question_number_145": {
+            "question": "trabajo",
+            "answer": "worked",
+            "know_it": 0
+        },
+        "question_number_146": {
+            "question": "gente",
+            "answer": "people",
+            "know_it": 0
+        },
+        "question_number_147": {
+            "question": "mira",
+            "answer": "look",
+            "know_it": 0
+        },
+        "question_number_148": {
+            "question": "vas",
+            "answer": "you go",
+            "know_it": 0
+        },
+        "question_number_149": {
+            "question": "sea",
+            "answer": "be",
+            "know_it": 0
+        },
+        "question_number_150": {
+            "question": "les",
+            "answer": "them",
+            "know_it": 0
+        },
+        "question_number_151": {
+            "question": "donde",
+            "answer": "where",
+            "know_it": 0
+        },
+        "question_number_152": {
+            "question": "mismo",
+            "answer": "same",
+            "know_it": 0
+        },
+        "question_number_153": {
+            "question": "hecho",
+            "answer": "done",
+            "know_it": 0
+        },
+        "question_number_154": {
+            "question": "ellos",
+            "answer": "they",
+            "know_it": 0
+        },
+        "question_number_155": {
+            "question": "dijo",
+            "answer": "said",
+            "know_it": 0
+        },
+        "question_number_156": {
+            "question": "pasa",
+            "answer": "happens",
+            "know_it": 0
+        },
+        "question_number_157": {
+            "question": "dinero",
+            "answer": "money",
+            "know_it": 0
+        },
+        "question_number_158": {
+            "question": "hijo",
+            "answer": "son",
+            "know_it": 0
+        },
+        "question_number_159": {
+            "question": "tal",
+            "answer": "such",
+            "know_it": 0
+        },
+        "question_number_160": {
+            "question": "otro",
+            "answer": "other",
+            "know_it": 0
+        },
+        "question_number_161": {
+            "question": "hablar",
+            "answer": "speak",
+            "know_it": 0
+        },
+        "question_number_162": {
+            "question": "seguro",
+            "answer": "sure",
+            "know_it": 0
+        },
+        "question_number_163": {
+            "question": "claro",
+            "answer": "Sure",
+            "know_it": 0
+        },
+        "question_number_164": {
+            "question": "estas",
+            "answer": "these",
+            "know_it": 0
+        },
+        "question_number_165": {
+            "question": "lugar",
+            "answer": "place",
+            "know_it": 0
+        },
+        "question_number_166": {
+            "question": "mundo",
+            "answer": "world",
+            "know_it": 0
+        },
+        "question_number_167": {
+            "question": "amigo",
+            "answer": "dude",
+            "know_it": 0
+        },
+        "question_number_168": {
+            "question": "espera",
+            "answer": "wait",
+            "know_it": 0
+        },
+        "question_number_169": {
+            "question": "mierda",
+            "answer": "shit",
+            "know_it": 0
+        },
+        "question_number_170": {
+            "question": "han",
+            "answer": "they have",
+            "know_it": 0
+        },
+        "question_number_171": {
+            "question": "tus",
+            "answer": "your",
+            "know_it": 0
+        },
+        "question_number_172": {
+            "question": "sabe",
+            "answer": "knows",
+            "know_it": 0
+        },
+        "question_number_173": {
+            "question": "despu\u00e9s",
+            "answer": "after",
+            "know_it": 0
+        },
+        "question_number_174": {
+            "question": "momento",
+            "answer": "moment",
+            "know_it": 0
+        },
+        "question_number_175": {
+            "question": "desde",
+            "answer": "since",
+            "know_it": 0
+        },
+        "question_number_176": {
+            "question": "fuera",
+            "answer": "outside",
+            "know_it": 0
+        },
+        "question_number_177": {
+            "question": "cosa",
+            "answer": "stuff",
+            "know_it": 0
+        },
+        "question_number_178": {
+            "question": "tipo",
+            "answer": "Type",
+            "know_it": 0
+        },
+        "question_number_179": {
+            "question": "ma\u00f1ana",
+            "answer": "morning",
+            "know_it": 0
+        },
+        "question_number_180": {
+            "question": "podemos",
+            "answer": "can",
+            "know_it": 0
+        },
+        "question_number_181": {
+            "question": "dije",
+            "answer": "said",
+            "know_it": 0
+        },
+        "question_number_182": {
+            "question": "gran",
+            "answer": "great",
+            "know_it": 0
+        },
+        "question_number_183": {
+            "question": "necesito",
+            "answer": "needed",
+            "know_it": 0
+        },
+        "question_number_184": {
+            "question": "estado",
+            "answer": "condition",
+            "know_it": 0
+        },
+        "question_number_185": {
+            "question": "podr\u00eda",
+            "answer": "could",
+            "know_it": 0
+        },
+        "question_number_186": {
+            "question": "acuerdo",
+            "answer": "agreement",
+            "know_it": 0
+        },
+        "question_number_187": {
+            "question": "pap\u00e1",
+            "answer": "father",
+            "know_it": 0
+        },
+        "question_number_188": {
+            "question": "tener",
+            "answer": "to have",
+            "know_it": 0
+        },
+        "question_number_189": {
+            "question": "dice",
+            "answer": "He says",
+            "know_it": 0
+        },
+        "question_number_190": {
+            "question": "m\u00edo",
+            "answer": "Own",
+            "know_it": 0
+        },
+        "question_number_191": {
+            "question": "crees",
+            "answer": "You believe",
+            "know_it": 0
+        },
+        "question_number_192": {
+            "question": "buena",
+            "answer": "good",
+            "know_it": 0
+        },
+        "question_number_193": {
+            "question": "gusta",
+            "answer": "like",
+            "know_it": 0
+        },
+        "question_number_194": {
+            "question": "nuestro",
+            "answer": "our",
+            "know_it": 0
+        },
+        "question_number_195": {
+            "question": "nuevo",
+            "answer": "new",
+            "know_it": 0
+        },
+        "question_number_196": {
+            "question": "ser\u00e1",
+            "answer": "will be",
+            "know_it": 0
+        },
+        "question_number_197": {
+            "question": "haciendo",
+            "answer": "making",
+            "know_it": 0
+        },
+        "question_number_198": {
+            "question": "d\u00edas",
+            "answer": "days",
+            "know_it": 0
+        },
+        "question_number_199": {
+            "question": "nombre",
+            "answer": "Name",
+            "know_it": 0
+        },
+        "question_number_200": {
+            "question": "buen",
+            "answer": "good",
+            "know_it": 0
+        },
+        "question_number_201": {
+            "question": "hab\u00eda",
+            "answer": "there was",
+            "know_it": 0
+        },
+        "question_number_202": {
+            "question": "ven",
+            "answer": "come",
+            "know_it": 0
+        },
+        "question_number_203": {
+            "question": "tres",
+            "answer": "three",
+            "know_it": 0
+        },
+        "question_number_204": {
+            "question": "menos",
+            "answer": "less",
+            "know_it": 0
+        },
+        "question_number_205": {
+            "question": "debe",
+            "answer": "must",
+            "know_it": 0
+        },
+        "question_number_206": {
+            "question": "ten\u00eda",
+            "answer": "I had",
+            "know_it": 0
+        },
+        "question_number_207": {
+            "question": "mal",
+            "answer": "wrong",
+            "know_it": 0
+        },
+        "question_number_208": {
+            "question": "conmigo",
+            "answer": "with me",
+            "know_it": 0
+        },
+        "question_number_209": {
+            "question": "madre",
+            "answer": "mother",
+            "know_it": 0
+        },
+        "question_number_210": {
+            "question": "hoy",
+            "answer": "today",
+            "know_it": 0
+        },
+        "question_number_211": {
+            "question": "quien",
+            "answer": "who",
+            "know_it": 0
+        },
+        "question_number_212": {
+            "question": "sido",
+            "answer": "been",
+            "know_it": 0
+        },
+        "question_number_213": {
+            "question": "mam\u00e1",
+            "answer": "breast",
+            "know_it": 0
+        },
+        "question_number_214": {
+            "question": "tienen",
+            "answer": "have",
+            "know_it": 0
+        },
+        "question_number_215": {
+            "question": "luego",
+            "answer": "later",
+            "know_it": 0
+        },
+        "question_number_216": {
+            "question": "todas",
+            "answer": "all",
+            "know_it": 0
+        },
+        "question_number_217": {
+            "question": "all\u00ed",
+            "answer": "over there",
+            "know_it": 0
+        },
+        "question_number_218": {
+            "question": "toda",
+            "answer": "all",
+            "know_it": 0
+        },
+        "question_number_219": {
+            "question": "hora",
+            "answer": "hour",
+            "know_it": 0
+        },
+        "question_number_220": {
+            "question": "mujer",
+            "answer": "woman",
+            "know_it": 0
+        },
+        "question_number_221": {
+            "question": "visto",
+            "answer": "viewed",
+            "know_it": 0
+        },
+        "question_number_222": {
+            "question": "haces",
+            "answer": "you do",
+            "know_it": 0
+        },
+        "question_number_223": {
+            "question": "importa",
+            "answer": "It matters",
+            "know_it": 0
+        },
+        "question_number_224": {
+            "question": "contigo",
+            "answer": "with you",
+            "know_it": 0
+        },
+        "question_number_225": {
+            "question": "ve",
+            "answer": "go",
+            "know_it": 0
+        },
+        "question_number_226": {
+            "question": "tarde",
+            "answer": "afternoon",
+            "know_it": 0
+        },
+        "question_number_227": {
+            "question": "oye",
+            "answer": "hears",
+            "know_it": 0
+        },
+        "question_number_228": {
+            "question": "parte",
+            "answer": "part",
+            "know_it": 0
+        },
+        "question_number_229": {
+            "question": "haber",
+            "answer": "to have",
+            "know_it": 0
+        },
+        "question_number_230": {
+            "question": "hombres",
+            "answer": "mens",
+            "know_it": 0
+        },
+        "question_number_231": {
+            "question": "problema",
+            "answer": "issue",
+            "know_it": 0
+        },
+        "question_number_232": {
+            "question": "mas",
+            "answer": "plus",
+            "know_it": 0
+        },
+        "question_number_233": {
+            "question": "saber",
+            "answer": "to know",
+            "know_it": 0
+        },
+        "question_number_234": {
+            "question": "quer\u00eda",
+            "answer": "wanted",
+            "know_it": 0
+        },
+        "question_number_235": {
+            "question": "a\u00fan",
+            "answer": "even",
+            "know_it": 0
+        },
+        "question_number_236": {
+            "question": "veces",
+            "answer": "times",
+            "know_it": 0
+        },
+        "question_number_237": {
+            "question": "nuestra",
+            "answer": "our",
+            "know_it": 0
+        },
+        "question_number_238": {
+            "question": "hacerlo",
+            "answer": "do it",
+            "know_it": 0
+        },
+        "question_number_239": {
+            "question": "cada",
+            "answer": "each",
+            "know_it": 0
+        },
+        "question_number_240": {
+            "question": "hizo",
+            "answer": "made",
+            "know_it": 0
+        },
+        "question_number_241": {
+            "question": "veo",
+            "answer": "I see",
+            "know_it": 0
+        },
+        "question_number_242": {
+            "question": "tanto",
+            "answer": "so much",
+            "know_it": 0
+        },
+        "question_number_243": {
+            "question": "raz\u00f3n",
+            "answer": "reason",
+            "know_it": 0
+        },
+        "question_number_244": {
+            "question": "ustedes",
+            "answer": "your",
+            "know_it": 0
+        },
+        "question_number_245": {
+            "question": "idea",
+            "answer": "idea",
+            "know_it": 0
+        },
+        "question_number_246": {
+            "question": "esos",
+            "answer": "those",
+            "know_it": 0
+        },
+        "question_number_247": {
+            "question": "van",
+            "answer": "go",
+            "know_it": 0
+        },
+        "question_number_248": {
+            "question": "quiz\u00e1",
+            "answer": "Maybe",
+            "know_it": 0
+        },
+        "question_number_249": {
+            "question": "debo",
+            "answer": "I shall",
+            "know_it": 0
+        },
+        "question_number_250": {
+            "question": "alguna",
+            "answer": "some",
+            "know_it": 0
+        },
+        "question_number_251": {
+            "question": "cierto",
+            "answer": "certain",
+            "know_it": 0
+        },
+        "question_number_252": {
+            "question": "ud",
+            "answer": "You",
+            "know_it": 0
+        },
+        "question_number_253": {
+            "question": "muerto",
+            "answer": "dead",
+            "know_it": 0
+        },
+        "question_number_254": {
+            "question": "unos",
+            "answer": "some",
+            "know_it": 0
+        },
+        "question_number_255": {
+            "question": "estos",
+            "answer": "these",
+            "know_it": 0
+        },
+        "question_number_256": {
+            "question": "salir",
+            "answer": "leave",
+            "know_it": 0
+        },
+        "question_number_257": {
+            "question": "polic\u00eda",
+            "answer": "policeman",
+            "know_it": 0
+        },
+        "question_number_258": {
+            "question": "realmente",
+            "answer": "Really",
+            "know_it": 0
+        },
+        "question_number_259": {
+            "question": "demasiado",
+            "answer": "too",
+            "know_it": 0
+        },
+        "question_number_260": {
+            "question": "familia",
+            "answer": "family",
+            "know_it": 0
+        },
+        "question_number_261": {
+            "question": "pueden",
+            "answer": "they can",
+            "know_it": 0
+        },
+        "question_number_262": {
+            "question": "cabeza",
+            "answer": "head",
+            "know_it": 0
+        },
+        "question_number_263": {
+            "question": "hemos",
+            "answer": "we have",
+            "know_it": 0
+        },
+        "question_number_264": {
+            "question": "amigos",
+            "answer": "friends",
+            "know_it": 0
+        },
+        "question_number_265": {
+            "question": "chica",
+            "answer": "girl",
+            "know_it": 0
+        },
+        "question_number_266": {
+            "question": "cari\u00f1o",
+            "answer": "sweetie",
+            "know_it": 0
+        },
+        "question_number_267": {
+            "question": "lado",
+            "answer": "side",
+            "know_it": 0
+        },
+        "question_number_268": {
+            "question": "all\u00e1",
+            "answer": "there",
+            "know_it": 0
+        },
+        "question_number_269": {
+            "question": "entre",
+            "answer": "Come in",
+            "know_it": 0
+        },
+        "question_number_270": {
+            "question": "minutos",
+            "answer": "minutes",
+            "know_it": 0
+        },
+        "question_number_271": {
+            "question": "digo",
+            "answer": "say",
+            "know_it": 0
+        },
+        "question_number_272": {
+            "question": "alg\u00fan",
+            "answer": "some",
+            "know_it": 0
+        },
+        "question_number_273": {
+            "question": "serio",
+            "answer": "I laughed",
+            "know_it": 0
+        },
+        "question_number_274": {
+            "question": "cuidado",
+            "answer": "watch out",
+            "know_it": 0
+        },
+        "question_number_275": {
+            "question": "pas\u00f3",
+            "answer": "I pass",
+            "know_it": 0
+        },
+        "question_number_276": {
+            "question": "buenas",
+            "answer": "good",
+            "know_it": 0
+        },
+        "question_number_277": {
+            "question": "somos",
+            "answer": "are",
+            "know_it": 0
+        },
+        "question_number_278": {
+            "question": "amor",
+            "answer": "love",
+            "know_it": 0
+        },
+        "question_number_279": {
+            "question": "puerta",
+            "answer": "gate",
+            "know_it": 0
+        },
+        "question_number_280": {
+            "question": "ves",
+            "answer": "you see",
+            "know_it": 0
+        },
+        "question_number_281": {
+            "question": "vaya",
+            "answer": "wow",
+            "know_it": 0
+        },
+        "question_number_282": {
+            "question": "ah",
+            "answer": "ah",
+            "know_it": 0
+        },
+        "question_number_283": {
+            "question": "suerte",
+            "answer": "luck",
+            "know_it": 0
+        },
+        "question_number_284": {
+            "question": "eh",
+            "answer": "Hey",
+            "know_it": 0
+        },
+        "question_number_285": {
+            "question": "r\u00e1pido",
+            "answer": "Quick",
+            "know_it": 0
+        },
+        "question_number_286": {
+            "question": "cuenta",
+            "answer": "bill",
+            "know_it": 0
+        },
+        "question_number_287": {
+            "question": "quiz\u00e1s",
+            "answer": "maybe",
+            "know_it": 0
+        },
+        "question_number_288": {
+            "question": "esas",
+            "answer": "those",
+            "know_it": 0
+        },
+        "question_number_289": {
+            "question": "pues",
+            "answer": "well",
+            "know_it": 0
+        },
+        "question_number_290": {
+            "question": "pasado",
+            "answer": "past",
+            "know_it": 0
+        },
+        "question_number_291": {
+            "question": "pens\u00e9",
+            "answer": "I thought",
+            "know_it": 0
+        },
+        "question_number_292": {
+            "question": "todav\u00eda",
+            "answer": "yet",
+            "know_it": 0
+        },
+        "question_number_293": {
+            "question": "hermano",
+            "answer": "brother",
+            "know_it": 0
+        },
+        "question_number_294": {
+            "question": "debes",
+            "answer": "you should",
+            "know_it": 0
+        },
+        "question_number_295": {
+            "question": "casi",
+            "answer": "almost",
+            "know_it": 0
+        },
+        "question_number_296": {
+            "question": "forma",
+            "answer": "form",
+            "know_it": 0
+        },
+        "question_number_297": {
+            "question": "aqui",
+            "answer": "here",
+            "know_it": 0
+        },
+        "question_number_298": {
+            "question": "chico",
+            "answer": "boy",
+            "know_it": 0
+        },
+        "question_number_299": {
+            "question": "ok",
+            "answer": "okay",
+            "know_it": 0
+        },
+        "question_number_300": {
+            "question": "dicho",
+            "answer": "saying",
+            "know_it": 0
+        },
+        "question_number_301": {
+            "question": "nueva",
+            "answer": "new",
+            "know_it": 0
+        },
+        "question_number_302": {
+            "question": "sab\u00eda",
+            "answer": "I knew",
+            "know_it": 0
+        },
+        "question_number_303": {
+            "question": "muchas",
+            "answer": "many",
+            "know_it": 0
+        },
+        "question_number_304": {
+            "question": "dentro",
+            "answer": "within",
+            "know_it": 0
+        },
+        "question_number_305": {
+            "question": "hice",
+            "answer": "I did",
+            "know_it": 0
+        },
+        "question_number_306": {
+            "question": "contra",
+            "answer": "against",
+            "know_it": 0
+        },
+        "question_number_307": {
+            "question": "auto",
+            "answer": "auto",
+            "know_it": 0
+        },
+        "question_number_308": {
+            "question": "camino",
+            "answer": "road",
+            "know_it": 0
+        },
+        "question_number_309": {
+            "question": "ayuda",
+            "answer": "aid",
+            "know_it": 0
+        },
+        "question_number_310": {
+            "question": "primera",
+            "answer": "first",
+            "know_it": 0
+        },
+        "question_number_311": {
+            "question": "hacia",
+            "answer": "towards",
+            "know_it": 0
+        },
+        "question_number_312": {
+            "question": "vi",
+            "answer": "saw",
+            "know_it": 0
+        },
+        "question_number_313": {
+            "question": "miedo",
+            "answer": "fear",
+            "know_it": 0
+        },
+        "question_number_314": {
+            "question": "adi\u00f3s",
+            "answer": "bye",
+            "know_it": 0
+        },
+        "question_number_315": {
+            "question": "primero",
+            "answer": "first",
+            "know_it": 0
+        },
+        "question_number_316": {
+            "question": "deber\u00eda",
+            "answer": "should",
+            "know_it": 0
+        },
+        "question_number_317": {
+            "question": "poder",
+            "answer": "can",
+            "know_it": 0
+        },
+        "question_number_318": {
+            "question": "ni\u00f1os",
+            "answer": "kids",
+            "know_it": 0
+        },
+        "question_number_319": {
+            "question": "ser\u00eda",
+            "answer": "would",
+            "know_it": 0
+        },
+        "question_number_320": {
+            "question": "historia",
+            "answer": "history",
+            "know_it": 0
+        },
+        "question_number_321": {
+            "question": "hey",
+            "answer": "Hey",
+            "know_it": 0
+        },
+        "question_number_322": {
+            "question": "mientras",
+            "answer": "while",
+            "know_it": 0
+        },
+        "question_number_323": {
+            "question": "ciudad",
+            "answer": "city",
+            "know_it": 0
+        },
+        "question_number_324": {
+            "question": "dijiste",
+            "answer": "said",
+            "know_it": 0
+        },
+        "question_number_325": {
+            "question": "espero",
+            "answer": "wait",
+            "know_it": 0
+        },
+        "question_number_326": {
+            "question": "cu\u00e1nto",
+            "answer": "how many",
+            "know_it": 0
+        },
+        "question_number_327": {
+            "question": "esposa",
+            "answer": "wife",
+            "know_it": 0
+        },
+        "question_number_328": {
+            "question": "pronto",
+            "answer": "early",
+            "know_it": 0
+        },
+        "question_number_329": {
+            "question": "chicos",
+            "answer": "Boys",
+            "know_it": 0
+        },
+        "question_number_330": {
+            "question": "cualquier",
+            "answer": "any",
+            "know_it": 0
+        },
+        "question_number_331": {
+            "question": "viejo",
+            "answer": "old",
+            "know_it": 0
+        },
+        "question_number_332": {
+            "question": "debemos",
+            "answer": "must",
+            "know_it": 0
+        },
+        "question_number_333": {
+            "question": "deja",
+            "answer": "let",
+            "know_it": 0
+        },
+        "question_number_334": {
+            "question": "a\u00f1o",
+            "answer": "year",
+            "know_it": 0
+        },
+        "question_number_335": {
+            "question": "muerte",
+            "answer": "death",
+            "know_it": 0
+        },
+        "question_number_336": {
+            "question": "hablando",
+            "answer": "talking",
+            "know_it": 0
+        },
+        "question_number_337": {
+            "question": "manos",
+            "answer": "hands",
+            "know_it": 0
+        },
+        "question_number_338": {
+            "question": "da",
+            "answer": "gives",
+            "know_it": 0
+        },
+        "question_number_339": {
+            "question": "loco",
+            "answer": "crazy",
+            "know_it": 0
+        },
+        "question_number_340": {
+            "question": "problemas",
+            "answer": "problems",
+            "know_it": 0
+        },
+        "question_number_341": {
+            "question": "mano",
+            "answer": "hand",
+            "know_it": 0
+        },
+        "question_number_342": {
+            "question": "guerra",
+            "answer": "war",
+            "know_it": 0
+        },
+        "question_number_343": {
+            "question": "semana",
+            "answer": "week",
+            "know_it": 0
+        },
+        "question_number_344": {
+            "question": "pasar",
+            "answer": "spend",
+            "know_it": 0
+        },
+        "question_number_345": {
+            "question": "vale",
+            "answer": "okay",
+            "know_it": 0
+        },
+        "question_number_346": {
+            "question": "cu\u00e1l",
+            "answer": "which",
+            "know_it": 0
+        },
+        "question_number_347": {
+            "question": "viene",
+            "answer": "comes",
+            "know_it": 0
+        },
+        "question_number_348": {
+            "question": "volver",
+            "answer": "return",
+            "know_it": 0
+        },
+        "question_number_349": {
+            "question": "toma",
+            "answer": "taking",
+            "know_it": 0
+        },
+        "question_number_350": {
+            "question": "caso",
+            "answer": "case",
+            "know_it": 0
+        },
+        "question_number_351": {
+            "question": "agua",
+            "answer": "Water",
+            "know_it": 0
+        },
+        "question_number_352": {
+            "question": "har\u00e9",
+            "answer": "I will do",
+            "know_it": 0
+        },
+        "question_number_353": {
+            "question": "vete",
+            "answer": "go away",
+            "know_it": 0
+        },
+        "question_number_354": {
+            "question": "entiendo",
+            "answer": "I get it",
+            "know_it": 0
+        },
+        "question_number_355": {
+            "question": "horas",
+            "answer": "hours",
+            "know_it": 0
+        },
+        "question_number_356": {
+            "question": "personas",
+            "answer": "people",
+            "know_it": 0
+        },
+        "question_number_357": {
+            "question": "capit\u00e1n",
+            "answer": "captain",
+            "know_it": 0
+        },
+        "question_number_358": {
+            "question": "adelante",
+            "answer": "ahead",
+            "know_it": 0
+        },
+        "question_number_359": {
+            "question": "ni\u00f1o",
+            "answer": "little boy",
+            "know_it": 0
+        },
+        "question_number_360": {
+            "question": "listo",
+            "answer": "clever",
+            "know_it": 0
+        },
+        "question_number_361": {
+            "question": "noches",
+            "answer": "nights",
+            "know_it": 0
+        },
+        "question_number_362": {
+            "question": "buenos",
+            "answer": "good ones",
+            "know_it": 0
+        },
+        "question_number_363": {
+            "question": "iba",
+            "answer": "I was going",
+            "know_it": 0
+        },
+        "question_number_364": {
+            "question": "juntos",
+            "answer": "together",
+            "know_it": 0
+        },
+        "question_number_365": {
+            "question": "dame",
+            "answer": "give to me",
+            "know_it": 0
+        },
+        "question_number_366": {
+            "question": "\u00fanico",
+            "answer": "unique",
+            "know_it": 0
+        },
+        "question_number_367": {
+            "question": "d\u00e9jame",
+            "answer": "let me",
+            "know_it": 0
+        },
+        "question_number_368": {
+            "question": "cerca",
+            "answer": "close",
+            "know_it": 0
+        },
+        "question_number_369": {
+            "question": "otros",
+            "answer": "others",
+            "know_it": 0
+        },
+        "question_number_370": {
+            "question": "sigue",
+            "answer": "follow",
+            "know_it": 0
+        },
+        "question_number_371": {
+            "question": "grande",
+            "answer": "great",
+            "know_it": 0
+        },
+        "question_number_372": {
+            "question": "arriba",
+            "answer": "up",
+            "know_it": 0
+        },
+        "question_number_373": {
+            "question": "jefe",
+            "answer": "boss",
+            "know_it": 0
+        },
+        "question_number_374": {
+            "question": "habla",
+            "answer": "speech",
+            "know_it": 0
+        },
+        "question_number_375": {
+            "question": "supongo",
+            "answer": "I guess",
+            "know_it": 0
+        },
+        "question_number_376": {
+            "question": "manera",
+            "answer": "way",
+            "know_it": 0
+        },
+        "question_number_377": {
+            "question": "quieren",
+            "answer": "They want",
+            "know_it": 0
+        },
+        "question_number_378": {
+            "question": "feliz",
+            "answer": "happy",
+            "know_it": 0
+        },
+        "question_number_379": {
+            "question": "significa",
+            "answer": "it means",
+            "know_it": 0
+        },
+        "question_number_380": {
+            "question": "sangre",
+            "answer": "blood",
+            "know_it": 0
+        },
+        "question_number_381": {
+            "question": "fin",
+            "answer": "finish",
+            "know_it": 0
+        },
+        "question_number_382": {
+            "question": "bajo",
+            "answer": "bass",
+            "know_it": 0
+        },
+        "question_number_383": {
+            "question": "llama",
+            "answer": "call",
+            "know_it": 0
+        },
+        "question_number_384": {
+            "question": "venir",
+            "answer": "to come",
+            "know_it": 0
+        },
+        "question_number_385": {
+            "question": "morir",
+            "answer": "To die",
+            "know_it": 0
+        },
+        "question_number_386": {
+            "question": "importante",
+            "answer": "important",
+            "know_it": 0
+        },
+        "question_number_387": {
+            "question": "hiciste",
+            "answer": "did",
+            "know_it": 0
+        },
+        "question_number_388": {
+            "question": "ojos",
+            "answer": "eyes",
+            "know_it": 0
+        },
+        "question_number_389": {
+            "question": "escucha",
+            "answer": "listen",
+            "know_it": 0
+        },
+        "question_number_390": {
+            "question": "entrar",
+            "answer": "get in",
+            "know_it": 0
+        },
+        "question_number_391": {
+            "question": "ning\u00fan",
+            "answer": "none",
+            "know_it": 0
+        },
+        "question_number_392": {
+            "question": "coraz\u00f3n",
+            "answer": "heart",
+            "know_it": 0
+        },
+        "question_number_393": {
+            "question": "diablos",
+            "answer": "Devils",
+            "know_it": 0
+        },
+        "question_number_394": {
+            "question": "necesitamos",
+            "answer": "need",
+            "know_it": 0
+        },
+        "question_number_395": {
+            "question": "atr\u00e1s",
+            "answer": "behind",
+            "know_it": 0
+        },
+        "question_number_396": {
+            "question": "durante",
+            "answer": "during",
+            "know_it": 0
+        },
+        "question_number_397": {
+            "question": "dices",
+            "answer": "You say",
+            "know_it": 0
+        },
+        "question_number_398": {
+            "question": "nuestros",
+            "answer": "our",
+            "know_it": 0
+        },
+        "question_number_399": {
+            "question": "persona",
+            "answer": "person",
+            "know_it": 0
+        },
+        "question_number_400": {
+            "question": "abajo",
+            "answer": "down",
+            "know_it": 0
+        },
+        "question_number_401": {
+            "question": "dr",
+            "answer": "Dr.",
+            "know_it": 0
+        },
+        "question_number_402": {
+            "question": "hija",
+            "answer": "daughter",
+            "know_it": 0
+        },
+        "question_number_403": {
+            "question": "dejar",
+            "answer": "let",
+            "know_it": 0
+        },
+        "question_number_404": {
+            "question": "necesita",
+            "answer": "needs to",
+            "know_it": 0
+        },
+        "question_number_405": {
+            "question": "llegar",
+            "answer": "get",
+            "know_it": 0
+        },
+        "question_number_406": {
+            "question": "hago",
+            "answer": "I make",
+            "know_it": 0
+        },
+        "question_number_407": {
+            "question": "se\u00f1ora",
+            "answer": "Mrs",
+            "know_it": 0
+        },
+        "question_number_408": {
+            "question": "haya",
+            "answer": "is",
+            "know_it": 0
+        },
+        "question_number_409": {
+            "question": "suficiente",
+            "answer": "enough",
+            "know_it": 0
+        },
+        "question_number_410": {
+            "question": "doctor",
+            "answer": "doctor",
+            "know_it": 0
+        },
+        "question_number_411": {
+            "question": "gustar\u00eda",
+            "answer": "would like",
+            "know_it": 0
+        },
+        "question_number_412": {
+            "question": "tierra",
+            "answer": "Earth",
+            "know_it": 0
+        },
+        "question_number_413": {
+            "question": "cara",
+            "answer": "expensive",
+            "know_it": 0
+        },
+        "question_number_414": {
+            "question": "siquiera",
+            "answer": "even",
+            "know_it": 0
+        },
+        "question_number_415": {
+            "question": "genial",
+            "answer": "cool",
+            "know_it": 0
+        },
+        "question_number_416": {
+            "question": "cree",
+            "answer": "Believe",
+            "know_it": 0
+        },
+        "question_number_417": {
+            "question": "supuesto",
+            "answer": "supposed",
+            "know_it": 0
+        },
+        "question_number_418": {
+            "question": "tomar",
+            "answer": "drink",
+            "know_it": 0
+        },
+        "question_number_419": {
+            "question": "equipo",
+            "answer": "equipment",
+            "know_it": 0
+        },
+        "question_number_420": {
+            "question": "justo",
+            "answer": "just",
+            "know_it": 0
+        },
+        "question_number_421": {
+            "question": "juego",
+            "answer": "play",
+            "know_it": 0
+        },
+        "question_number_422": {
+            "question": "ninguna",
+            "answer": "none",
+            "know_it": 0
+        },
+        "question_number_423": {
+            "question": "matar",
+            "answer": "to kill",
+            "know_it": 0
+        },
+        "question_number_424": {
+            "question": "cinco",
+            "answer": "five",
+            "know_it": 0
+        },
+        "question_number_425": {
+            "question": "dicen",
+            "answer": "They say",
+            "know_it": 0
+        },
+        "question_number_426": {
+            "question": "amo",
+            "answer": "love",
+            "know_it": 0
+        },
+        "question_number_427": {
+            "question": "cu\u00e1ndo",
+            "answer": "when",
+            "know_it": 0
+        },
+        "question_number_428": {
+            "question": "peque\u00f1o",
+            "answer": "little",
+            "know_it": 0
+        },
+        "question_number_429": {
+            "question": "algunos",
+            "answer": "Some",
+            "know_it": 0
+        },
+        "question_number_430": {
+            "question": "conozco",
+            "answer": "know",
+            "know_it": 0
+        },
+        "question_number_431": {
+            "question": "clase",
+            "answer": "class",
+            "know_it": 0
+        },
+        "question_number_432": {
+            "question": "maldito",
+            "answer": "damned",
+            "know_it": 0
+        },
+        "question_number_433": {
+            "question": "unas",
+            "answer": "nail",
+            "know_it": 0
+        },
+        "question_number_434": {
+            "question": "muchos",
+            "answer": "Many",
+            "know_it": 0
+        },
+        "question_number_435": {
+            "question": "hubiera",
+            "answer": "had",
+            "know_it": 0
+        },
+        "question_number_436": {
+            "question": "segundo",
+            "answer": "second",
+            "know_it": 0
+        },
+        "question_number_437": {
+            "question": "aunque",
+            "answer": "though",
+            "know_it": 0
+        },
+        "question_number_438": {
+            "question": "pueda",
+            "answer": "I can",
+            "know_it": 0
+        },
+        "question_number_439": {
+            "question": "dime",
+            "answer": "tell me",
+            "know_it": 0
+        },
+        "question_number_440": {
+            "question": "igual",
+            "answer": "Same",
+            "know_it": 0
+        },
+        "question_number_441": {
+            "question": "comida",
+            "answer": "food",
+            "know_it": 0
+        },
+        "question_number_442": {
+            "question": "ay",
+            "answer": "Oh",
+            "know_it": 0
+        },
+        "question_number_443": {
+            "question": "cuerpo",
+            "answer": "Body",
+            "know_it": 0
+        },
+        "question_number_444": {
+            "question": "encontrar",
+            "answer": "find",
+            "know_it": 0
+        },
+        "question_number_445": {
+            "question": "fuerte",
+            "answer": "strong",
+            "know_it": 0
+        },
+        "question_number_446": {
+            "question": "vuelta",
+            "answer": "lap",
+            "know_it": 0
+        },
+        "question_number_447": {
+            "question": "venga",
+            "answer": "come on",
+            "know_it": 0
+        },
+        "question_number_448": {
+            "question": "creer",
+            "answer": "believe",
+            "know_it": 0
+        },
+        "question_number_449": {
+            "question": "realidad",
+            "answer": "reality",
+            "know_it": 0
+        },
+        "question_number_450": {
+            "question": "saben",
+            "answer": "They know",
+            "know_it": 0
+        },
+        "question_number_451": {
+            "question": "puta",
+            "answer": "bitch",
+            "know_it": 0
+        },
+        "question_number_452": {
+            "question": "deber\u00edas",
+            "answer": "you should",
+            "know_it": 0
+        },
+        "question_number_453": {
+            "question": "pregunta",
+            "answer": "Question",
+            "know_it": 0
+        },
+        "question_number_454": {
+            "question": "fui",
+            "answer": "I was",
+            "know_it": 0
+        },
+        "question_number_455": {
+            "question": "cuatro",
+            "answer": "four",
+            "know_it": 0
+        },
+        "question_number_456": {
+            "question": "sra",
+            "answer": "Mrs",
+            "know_it": 0
+        },
+        "question_number_457": {
+            "question": "primer",
+            "answer": "first",
+            "know_it": 0
+        },
+        "question_number_458": {
+            "question": "trabajar",
+            "answer": "to work",
+            "know_it": 0
+        },
+        "question_number_459": {
+            "question": "e",
+            "answer": "and",
+            "know_it": 0
+        },
+        "question_number_460": {
+            "question": "hagas",
+            "answer": "you do",
+            "know_it": 0
+        },
+        "question_number_461": {
+            "question": "alto",
+            "answer": "tall",
+            "know_it": 0
+        },
+        "question_number_462": {
+            "question": "maldita",
+            "answer": "damn",
+            "know_it": 0
+        },
+        "question_number_463": {
+            "question": "comer",
+            "answer": "to eat",
+            "know_it": 0
+        },
+        "question_number_464": {
+            "question": "n\u00famero",
+            "answer": "number",
+            "know_it": 0
+        },
+        "question_number_465": {
+            "question": "dar",
+            "answer": "to give",
+            "know_it": 0
+        },
+        "question_number_466": {
+            "question": "necesitas",
+            "answer": "you need",
+            "know_it": 0
+        },
+        "question_number_467": {
+            "question": "oportunidad",
+            "answer": "chance",
+            "know_it": 0
+        },
+        "question_number_468": {
+            "question": "punto",
+            "answer": "point",
+            "know_it": 0
+        },
+        "question_number_469": {
+            "question": "misma",
+            "answer": "same",
+            "know_it": 0
+        },
+        "question_number_470": {
+            "question": "\u00faltima",
+            "answer": "last",
+            "know_it": 0
+        },
+        "question_number_471": {
+            "question": "afuera",
+            "answer": "outside",
+            "know_it": 0
+        },
+        "question_number_472": {
+            "question": "mujeres",
+            "answer": "women",
+            "know_it": 0
+        },
+        "question_number_473": {
+            "question": "pensar",
+            "answer": "to think",
+            "know_it": 0
+        },
+        "question_number_474": {
+            "question": "fueron",
+            "answer": "were",
+            "know_it": 0
+        },
+        "question_number_475": {
+            "question": "dif\u00edcil",
+            "answer": "hard",
+            "know_it": 0
+        },
+        "question_number_476": {
+            "question": "vivir",
+            "answer": "to live",
+            "know_it": 0
+        },
+        "question_number_477": {
+            "question": "paso",
+            "answer": "step",
+            "know_it": 0
+        },
+        "question_number_478": {
+            "question": "malo",
+            "answer": "bad",
+            "know_it": 0
+        },
+        "question_number_479": {
+            "question": "estabas",
+            "answer": "You were",
+            "know_it": 0
+        },
+        "question_number_480": {
+            "question": "vivo",
+            "answer": "live",
+            "know_it": 0
+        },
+        "question_number_481": {
+            "question": "haga",
+            "answer": "make",
+            "know_it": 0
+        },
+        "question_number_482": {
+            "question": "queda",
+            "answer": "remains",
+            "know_it": 0
+        },
+        "question_number_483": {
+            "question": "hijos",
+            "answer": "sons",
+            "know_it": 0
+        },
+        "question_number_484": {
+            "question": "mayor",
+            "answer": "elderly",
+            "know_it": 0
+        },
+        "question_number_485": {
+            "question": "fiesta",
+            "answer": "party",
+            "know_it": 0
+        },
+        "question_number_486": {
+            "question": "hacen",
+            "answer": "make",
+            "know_it": 0
+        },
+        "question_number_487": {
+            "question": "medio",
+            "answer": "medium",
+            "know_it": 0
+        },
+        "question_number_488": {
+            "question": "algunas",
+            "answer": "some",
+            "know_it": 0
+        },
+        "question_number_489": {
+            "question": "basta",
+            "answer": "Enough",
+            "know_it": 0
+        },
+        "question_number_490": {
+            "question": "arma",
+            "answer": "weapon",
+            "know_it": 0
+        },
+        "question_number_491": {
+            "question": "vino",
+            "answer": "came",
+            "know_it": 0
+        },
+        "question_number_492": {
+            "question": "meses",
+            "answer": "months",
+            "know_it": 0
+        },
+        "question_number_493": {
+            "question": "cuarto",
+            "answer": "fourth",
+            "know_it": 0
+        },
+        "question_number_494": {
+            "question": "\u00e9ste",
+            "answer": "East",
+            "know_it": 0
+        },
+        "question_number_495": {
+            "question": "escuela",
+            "answer": "school",
+            "know_it": 0
+        },
+        "question_number_496": {
+            "question": "est\u00e9",
+            "answer": "East",
+            "know_it": 0
+        },
+        "question_number_497": {
+            "question": "d\u00f3lares",
+            "answer": "Dollars",
+            "know_it": 0
+        },
+        "question_number_498": {
+            "question": "t\u00edo",
+            "answer": "uncle",
+            "know_it": 0
+        },
+        "question_number_499": {
+            "question": "posible",
+            "answer": "possible",
+            "know_it": 0
+        },
+        "question_number_500": {
+            "question": "tuve",
+            "answer": "I had",
+            "know_it": 0
+        },
+        "question_number_501": {
+            "question": "f\u00e1cil",
+            "answer": "easy",
+            "know_it": 0
+        },
+        "question_number_502": {
+            "question": "preocupes",
+            "answer": "worry",
+            "know_it": 0
+        },
+        "question_number_503": {
+            "question": "luz",
+            "answer": "light",
+            "know_it": 0
+        },
+        "question_number_504": {
+            "question": "eran",
+            "answer": "were",
+            "know_it": 0
+        },
+        "question_number_505": {
+            "question": "carajo",
+            "answer": "fuck",
+            "know_it": 0
+        },
+        "question_number_506": {
+            "question": "final",
+            "answer": "final",
+            "know_it": 0
+        },
+        "question_number_507": {
+            "question": "lista",
+            "answer": "ready",
+            "know_it": 0
+        },
+        "question_number_508": {
+            "question": "trata",
+            "answer": "about",
+            "know_it": 0
+        },
+        "question_number_509": {
+            "question": "armas",
+            "answer": "weapons",
+            "know_it": 0
+        },
+        "question_number_510": {
+            "question": "hermana",
+            "answer": "sister",
+            "know_it": 0
+        },
+        "question_number_511": {
+            "question": "exactamente",
+            "answer": "exactly",
+            "know_it": 0
+        },
+        "question_number_512": {
+            "question": "chicas",
+            "answer": "girls",
+            "know_it": 0
+        },
+        "question_number_513": {
+            "question": "pod\u00eda",
+            "answer": "could",
+            "know_it": 0
+        },
+        "question_number_514": {
+            "question": "bastante",
+            "answer": "Quite",
+            "know_it": 0
+        },
+        "question_number_515": {
+            "question": "seguridad",
+            "answer": "security",
+            "know_it": 0
+        },
+        "question_number_516": {
+            "question": "pasando",
+            "answer": "going",
+            "know_it": 0
+        },
+        "question_number_517": {
+            "question": "esperando",
+            "answer": "hoping for",
+            "know_it": 0
+        },
+        "question_number_518": {
+            "question": "ac\u00e1",
+            "answer": "here",
+            "know_it": 0
+        },
+        "question_number_519": {
+            "question": "tel\u00e9fono",
+            "answer": "telephone",
+            "know_it": 0
+        },
+        "question_number_520": {
+            "question": "perro",
+            "answer": "dog",
+            "know_it": 0
+        },
+        "question_number_521": {
+            "question": "fuego",
+            "answer": "fire",
+            "know_it": 0
+        },
+        "question_number_522": {
+            "question": "muri\u00f3",
+            "answer": "he died",
+            "know_it": 0
+        },
+        "question_number_523": {
+            "question": "tampoco",
+            "answer": "either",
+            "know_it": 0
+        },
+        "question_number_524": {
+            "question": "sola",
+            "answer": "alone",
+            "know_it": 0
+        },
+        "question_number_525": {
+            "question": "estuvo",
+            "answer": "he was",
+            "know_it": 0
+        },
+        "question_number_526": {
+            "question": "verte",
+            "answer": "to see you",
+            "know_it": 0
+        },
+        "question_number_527": {
+            "question": "ir\u00e9",
+            "answer": "I will go",
+            "know_it": 0
+        },
+        "question_number_528": {
+            "question": "tenido",
+            "answer": "Dyed",
+            "know_it": 0
+        },
+        "question_number_529": {
+            "question": "culpa",
+            "answer": "fault",
+            "know_it": 0
+        },
+        "question_number_530": {
+            "question": "veras",
+            "answer": "you'll see",
+            "know_it": 0
+        },
+        "question_number_531": {
+            "question": "ad\u00f3nde",
+            "answer": "where to",
+            "know_it": 0
+        },
+        "question_number_532": {
+            "question": "buscando",
+            "answer": "searching",
+            "know_it": 0
+        },
+        "question_number_533": {
+            "question": "cuanto",
+            "answer": "how much",
+            "know_it": 0
+        },
+        "question_number_534": {
+            "question": "padres",
+            "answer": "fathers",
+            "know_it": 0
+        },
+        "question_number_535": {
+            "question": "paz",
+            "answer": "peace",
+            "know_it": 0
+        },
+        "question_number_536": {
+            "question": "demonios",
+            "answer": "demons",
+            "know_it": 0
+        },
+        "question_number_537": {
+            "question": "estar\u00e1",
+            "answer": "will be",
+            "know_it": 0
+        },
+        "question_number_538": {
+            "question": "cual",
+            "answer": "which",
+            "know_it": 0
+        },
+        "question_number_539": {
+            "question": "perd\u00f3n",
+            "answer": "sorry",
+            "know_it": 0
+        },
+        "question_number_540": {
+            "question": "asi",
+            "answer": "So",
+            "know_it": 0
+        },
+        "question_number_541": {
+            "question": "jugar",
+            "answer": "play",
+            "know_it": 0
+        },
+        "question_number_542": {
+            "question": "pensando",
+            "answer": "thinking",
+            "know_it": 0
+        },
+        "question_number_543": {
+            "question": "esperar",
+            "answer": "expect",
+            "know_it": 0
+        },
+        "question_number_544": {
+            "question": "sabemos",
+            "answer": "we know",
+            "know_it": 0
+        },
+        "question_number_545": {
+            "question": "recuerdo",
+            "answer": "memory",
+            "know_it": 0
+        },
+        "question_number_546": {
+            "question": "par",
+            "answer": "pair",
+            "know_it": 0
+        },
+        "question_number_547": {
+            "question": "joven",
+            "answer": "young man",
+            "know_it": 0
+        },
+        "question_number_548": {
+            "question": "seguir",
+            "answer": "continue",
+            "know_it": 0
+        },
+        "question_number_549": {
+            "question": "pueblo",
+            "answer": "village",
+            "know_it": 0
+        },
+        "question_number_550": {
+            "question": "tenga",
+            "answer": "have",
+            "know_it": 0
+        },
+        "question_number_551": {
+            "question": "caballeros",
+            "answer": "gentlemen",
+            "know_it": 0
+        },
+        "question_number_552": {
+            "question": "idiota",
+            "answer": "moron",
+            "know_it": 0
+        },
+        "question_number_553": {
+            "question": "dio",
+            "answer": "it gave",
+            "know_it": 0
+        },
+        "question_number_554": {
+            "question": "minuto",
+            "answer": "minute",
+            "know_it": 0
+        },
+        "question_number_555": {
+            "question": "beb\u00e9",
+            "answer": "baby",
+            "know_it": 0
+        },
+        "question_number_556": {
+            "question": "\u00fanica",
+            "answer": "only",
+            "know_it": 0
+        },
+        "question_number_557": {
+            "question": "lejos",
+            "answer": "far",
+            "know_it": 0
+        },
+        "question_number_558": {
+            "question": "nuestras",
+            "answer": "ours",
+            "know_it": 0
+        },
+        "question_number_559": {
+            "question": "plan",
+            "answer": "plan",
+            "know_it": 0
+        },
+        "question_number_560": {
+            "question": "pienso",
+            "answer": "I think",
+            "know_it": 0
+        },
+        "question_number_561": {
+            "question": "sentido",
+            "answer": "sense",
+            "know_it": 0
+        },
+        "question_number_562": {
+            "question": "dormir",
+            "answer": "sleep",
+            "know_it": 0
+        },
+        "question_number_563": {
+            "question": "digas",
+            "answer": "you say",
+            "know_it": 0
+        },
+        "question_number_564": {
+            "question": "palabra",
+            "answer": "word",
+            "know_it": 0
+        },
+        "question_number_565": {
+            "question": "correcto",
+            "answer": "Right",
+            "know_it": 0
+        },
+        "question_number_566": {
+            "question": "control",
+            "answer": "control",
+            "know_it": 0
+        },
+        "question_number_567": {
+            "question": "vemos",
+            "answer": "we see",
+            "know_it": 0
+        },
+        "question_number_568": {
+            "question": "entiendes",
+            "answer": "You understand",
+            "know_it": 0
+        },
+        "question_number_569": {
+            "question": "pa\u00eds",
+            "answer": "country",
+            "know_it": 0
+        },
+        "question_number_570": {
+            "question": "seis",
+            "answer": "six",
+            "know_it": 0
+        },
+        "question_number_571": {
+            "question": "\u00faltimo",
+            "answer": "latest",
+            "know_it": 0
+        },
+        "question_number_572": {
+            "question": "\u00e9sta",
+            "answer": "is",
+            "know_it": 0
+        },
+        "question_number_573": {
+            "question": "diga",
+            "answer": "Say",
+            "know_it": 0
+        },
+        "question_number_574": {
+            "question": "podr\u00edas",
+            "answer": "could you",
+            "know_it": 0
+        },
+        "question_number_575": {
+            "question": "peque\u00f1a",
+            "answer": "small",
+            "know_it": 0
+        },
+        "question_number_576": {
+            "question": "c\u00e1llate",
+            "answer": "shut",
+            "know_it": 0
+        },
+        "question_number_577": {
+            "question": "trato",
+            "answer": "deal",
+            "know_it": 0
+        },
+        "question_number_578": {
+            "question": "rey",
+            "answer": "king",
+            "know_it": 0
+        },
+        "question_number_579": {
+            "question": "sucede",
+            "answer": "happens",
+            "know_it": 0
+        },
+        "question_number_580": {
+            "question": "muchachos",
+            "answer": "boys",
+            "know_it": 0
+        },
+        "question_number_581": {
+            "question": "jam\u00e1s",
+            "answer": "Never",
+            "know_it": 0
+        },
+        "question_number_582": {
+            "question": "cama",
+            "answer": "bed",
+            "know_it": 0
+        },
+        "question_number_583": {
+            "question": "srta",
+            "answer": "Ms",
+            "know_it": 0
+        },
+        "question_number_584": {
+            "question": "ayudar",
+            "answer": "help",
+            "know_it": 0
+        },
+        "question_number_585": {
+            "question": "acerca",
+            "answer": "about",
+            "know_it": 0
+        },
+        "question_number_586": {
+            "question": "di",
+            "answer": "gave",
+            "know_it": 0
+        },
+        "question_number_587": {
+            "question": "cambio",
+            "answer": "change",
+            "know_it": 0
+        },
+        "question_number_588": {
+            "question": "falta",
+            "answer": "lack",
+            "know_it": 0
+        },
+        "question_number_589": {
+            "question": "hospital",
+            "answer": "hospital",
+            "know_it": 0
+        },
+        "question_number_590": {
+            "question": "lleva",
+            "answer": "carries",
+            "know_it": 0
+        },
+        "question_number_591": {
+            "question": "presidente",
+            "answer": "President",
+            "know_it": 0
+        },
+        "question_number_592": {
+            "question": "mil",
+            "answer": "one thousand",
+            "know_it": 0
+        },
+        "question_number_593": {
+            "question": "gusto",
+            "answer": "taste",
+            "know_it": 0
+        },
+        "question_number_594": {
+            "question": "conoces",
+            "answer": "you know",
+            "know_it": 0
+        },
+        "question_number_595": {
+            "question": "diciendo",
+            "answer": "saying",
+            "know_it": 0
+        },
+        "question_number_596": {
+            "question": "os",
+            "answer": "you",
+            "know_it": 0
+        },
+        "question_number_597": {
+            "question": "ido",
+            "answer": "gone",
+            "know_it": 0
+        },
+        "question_number_598": {
+            "question": "general",
+            "answer": "general",
+            "know_it": 0
+        },
+        "question_number_599": {
+            "question": "extra\u00f1o",
+            "answer": "weird",
+            "know_it": 0
+        },
+        "question_number_600": {
+            "question": "semanas",
+            "answer": "weeks",
+            "know_it": 0
+        },
+        "question_number_601": {
+            "question": "coche",
+            "answer": "car",
+            "know_it": 0
+        },
+        "question_number_602": {
+            "question": "peor",
+            "answer": "worse",
+            "know_it": 0
+        },
+        "question_number_603": {
+            "question": "mucha",
+            "answer": "a lot",
+            "know_it": 0
+        },
+        "question_number_604": {
+            "question": "disculpe",
+            "answer": "excuse me",
+            "know_it": 0
+        },
+        "question_number_605": {
+            "question": "dir\u00e9",
+            "answer": "I'll say",
+            "know_it": 0
+        },
+        "question_number_606": {
+            "question": "anoche",
+            "answer": "last night",
+            "know_it": 0
+        },
+        "question_number_607": {
+            "question": "perder",
+            "answer": "lose",
+            "know_it": 0
+        },
+        "question_number_608": {
+            "question": "v\u00e1monos",
+            "answer": "Let's go",
+            "know_it": 0
+        },
+        "question_number_609": {
+            "question": "nave",
+            "answer": "ship",
+            "know_it": 0
+        },
+        "question_number_610": {
+            "question": "cielo",
+            "answer": "darling",
+            "know_it": 0
+        },
+        "question_number_611": {
+            "question": "habr\u00e1",
+            "answer": "there will be",
+            "know_it": 0
+        },
+        "question_number_612": {
+            "question": "orden",
+            "answer": "order",
+            "know_it": 0
+        },
+        "question_number_613": {
+            "question": "segura",
+            "answer": "safe",
+            "know_it": 0
+        },
+        "question_number_614": {
+            "question": "querida",
+            "answer": "Dear",
+            "know_it": 0
+        },
+        "question_number_615": {
+            "question": "ni\u00f1a",
+            "answer": "little girl",
+            "know_it": 0
+        },
+        "question_number_616": {
+            "question": "incre\u00edble",
+            "answer": "incredible",
+            "know_it": 0
+        },
+        "question_number_617": {
+            "question": "adem\u00e1s",
+            "answer": "what's more",
+            "know_it": 0
+        },
+        "question_number_618": {
+            "question": "deben",
+            "answer": "They must",
+            "know_it": 0
+        },
+        "question_number_619": {
+            "question": "libro",
+            "answer": "book",
+            "know_it": 0
+        },
+        "question_number_620": {
+            "question": "calle",
+            "answer": "street",
+            "know_it": 0
+        },
+        "question_number_621": {
+            "question": "caf\u00e9",
+            "answer": "coffee",
+            "know_it": 0
+        },
+        "question_number_622": {
+            "question": "piensas",
+            "answer": "You think",
+            "know_it": 0
+        },
+        "question_number_623": {
+            "question": "hacemos",
+            "answer": "we make",
+            "know_it": 0
+        },
+        "question_number_624": {
+            "question": "especial",
+            "answer": "special",
+            "know_it": 0
+        },
+        "question_number_625": {
+            "question": "queremos",
+            "answer": "we want",
+            "know_it": 0
+        },
+        "question_number_626": {
+            "question": "irme",
+            "answer": "Go",
+            "know_it": 0
+        },
+        "question_number_627": {
+            "question": "perfecto",
+            "answer": "perfect",
+            "know_it": 0
+        },
+        "question_number_628": {
+            "question": "buscar",
+            "answer": "Search",
+            "know_it": 0
+        },
+        "question_number_629": {
+            "question": "odio",
+            "answer": "hatred",
+            "know_it": 0
+        },
+        "question_number_630": {
+            "question": "piensa",
+            "answer": "think",
+            "know_it": 0
+        },
+        "question_number_631": {
+            "question": "oficina",
+            "answer": "office",
+            "know_it": 0
+        },
+        "question_number_632": {
+            "question": "hablas",
+            "answer": "speak",
+            "know_it": 0
+        },
+        "question_number_633": {
+            "question": "libre",
+            "answer": "free",
+            "know_it": 0
+        },
+        "question_number_634": {
+            "question": "agente",
+            "answer": "agent",
+            "know_it": 0
+        },
+        "question_number_635": {
+            "question": "york",
+            "answer": "York",
+            "know_it": 0
+        },
+        "question_number_636": {
+            "question": "llamar",
+            "answer": "to call",
+            "know_it": 0
+        },
+        "question_number_637": {
+            "question": "mala",
+            "answer": "bad",
+            "know_it": 0
+        },
+        "question_number_638": {
+            "question": "detr\u00e1s",
+            "answer": "behind",
+            "know_it": 0
+        },
+        "question_number_639": {
+            "question": "viste",
+            "answer": "dresses",
+            "know_it": 0
+        },
+        "question_number_640": {
+            "question": "dile",
+            "answer": "tell him",
+            "know_it": 0
+        },
+        "question_number_641": {
+            "question": "grandes",
+            "answer": "large",
+            "know_it": 0
+        },
+        "question_number_642": {
+            "question": "recuerdas",
+            "answer": "remember",
+            "know_it": 0
+        },
+        "question_number_643": {
+            "question": "real",
+            "answer": "real",
+            "know_it": 0
+        },
+        "question_number_644": {
+            "question": "estaban",
+            "answer": "They were",
+            "know_it": 0
+        },
+        "question_number_645": {
+            "question": "m\u00eda",
+            "answer": "mine",
+            "know_it": 0
+        },
+        "question_number_646": {
+            "question": "frente",
+            "answer": "front",
+            "know_it": 0
+        },
+        "question_number_647": {
+            "question": "perdido",
+            "answer": "lost",
+            "know_it": 0
+        },
+        "question_number_648": {
+            "question": "llamo",
+            "answer": "called",
+            "know_it": 0
+        },
+        "question_number_649": {
+            "question": "muertos",
+            "answer": "dead",
+            "know_it": 0
+        },
+        "question_number_650": {
+            "question": "millones",
+            "answer": "millions",
+            "know_it": 0
+        },
+        "question_number_651": {
+            "question": "asesino",
+            "answer": "assassin",
+            "know_it": 0
+        },
+        "question_number_652": {
+            "question": "sue\u00f1o",
+            "answer": "sleep",
+            "know_it": 0
+        },
+        "question_number_653": {
+            "question": "quisiera",
+            "answer": "I would like",
+            "know_it": 0
+        },
+        "question_number_654": {
+            "question": "habr\u00eda",
+            "answer": "there would be",
+            "know_it": 0
+        },
+        "question_number_655": {
+            "question": "har\u00e1",
+            "answer": "will do",
+            "know_it": 0
+        },
+        "question_number_656": {
+            "question": "viaje",
+            "answer": "trip",
+            "know_it": 0
+        },
+        "question_number_657": {
+            "question": "probablemente",
+            "answer": "probably",
+            "know_it": 0
+        },
+        "question_number_658": {
+            "question": "resto",
+            "answer": "rest",
+            "know_it": 0
+        },
+        "question_number_659": {
+            "question": "estar\u00e9",
+            "answer": "I will be",
+            "know_it": 0
+        },
+        "question_number_660": {
+            "question": "maldici\u00f3n",
+            "answer": "damn",
+            "know_it": 0
+        },
+        "question_number_661": {
+            "question": "lamento",
+            "answer": "lament",
+            "know_it": 0
+        },
+        "question_number_662": {
+            "question": "muchacho",
+            "answer": "young guy",
+            "know_it": 0
+        },
+        "question_number_663": {
+            "question": "avi\u00f3n",
+            "answer": "airplane",
+            "know_it": 0
+        },
+        "question_number_664": {
+            "question": "ropa",
+            "answer": "clothing",
+            "know_it": 0
+        },
+        "question_number_665": {
+            "question": "fuerza",
+            "answer": "strength",
+            "know_it": 0
+        },
+        "question_number_666": {
+            "question": "llamado",
+            "answer": "called",
+            "know_it": 0
+        },
+        "question_number_667": {
+            "question": "o\u00eddo",
+            "answer": "ear",
+            "know_it": 0
+        },
+        "question_number_668": {
+            "question": "dado",
+            "answer": "given",
+            "know_it": 0
+        },
+        "question_number_669": {
+            "question": "encima",
+            "answer": "over",
+            "know_it": 0
+        },
+        "question_number_670": {
+            "question": "negro",
+            "answer": "black",
+            "know_it": 0
+        },
+        "question_number_671": {
+            "question": "usar",
+            "answer": "use",
+            "know_it": 0
+        },
+        "question_number_672": {
+            "question": "informaci\u00f3n",
+            "answer": "information",
+            "know_it": 0
+        },
+        "question_number_673": {
+            "question": "uds",
+            "answer": "You",
+            "know_it": 0
+        },
+        "question_number_674": {
+            "question": "preguntas",
+            "answer": "questions",
+            "know_it": 0
+        },
+        "question_number_675": {
+            "question": "tuvo",
+            "answer": "He had",
+            "know_it": 0
+        },
+        "question_number_676": {
+            "question": "secreto",
+            "answer": "secret",
+            "know_it": 0
+        },
+        "question_number_677": {
+            "question": "vuelve",
+            "answer": "Come back",
+            "know_it": 0
+        },
+        "question_number_678": {
+            "question": "miren",
+            "answer": "Look",
+            "know_it": 0
+        },
+        "question_number_679": {
+            "question": "quieras",
+            "answer": "You want",
+            "know_it": 0
+        },
+        "question_number_680": {
+            "question": "har\u00eda",
+            "answer": "would do",
+            "know_it": 0
+        },
+        "question_number_681": {
+            "question": "acaba",
+            "answer": "just",
+            "know_it": 0
+        },
+        "question_number_682": {
+            "question": "otras",
+            "answer": "others",
+            "know_it": 0
+        },
+        "question_number_683": {
+            "question": "incluso",
+            "answer": "even",
+            "know_it": 0
+        },
+        "question_number_684": {
+            "question": "sientes",
+            "answer": "you feel",
+            "know_it": 0
+        },
+        "question_number_685": {
+            "question": "deber\u00edamos",
+            "answer": "we should",
+            "know_it": 0
+        },
+        "question_number_686": {
+            "question": "haz",
+            "answer": "make",
+            "know_it": 0
+        },
+        "question_number_687": {
+            "question": "decirte",
+            "answer": "tell you",
+            "know_it": 0
+        },
+        "question_number_688": {
+            "question": "boca",
+            "answer": "mouth",
+            "know_it": 0
+        },
+        "question_number_689": {
+            "question": "dolor",
+            "answer": "pain",
+            "know_it": 0
+        },
+        "question_number_690": {
+            "question": "ba\u00f1o",
+            "answer": "bath",
+            "know_it": 0
+        },
+        "question_number_691": {
+            "question": "adentro",
+            "answer": "indoors",
+            "know_it": 0
+        },
+        "question_number_692": {
+            "question": "profesor",
+            "answer": "professor",
+            "know_it": 0
+        },
+        "question_number_693": {
+            "question": "habitaci\u00f3n",
+            "answer": "room",
+            "know_it": 0
+        },
+        "question_number_694": {
+            "question": "da\u00f1o",
+            "answer": "damage",
+            "know_it": 0
+        },
+        "question_number_695": {
+            "question": "tuyo",
+            "answer": "yours",
+            "know_it": 0
+        },
+        "question_number_696": {
+            "question": "seas",
+            "answer": "You are",
+            "know_it": 0
+        },
+        "question_number_697": {
+            "question": "noticias",
+            "answer": "news",
+            "know_it": 0
+        },
+        "question_number_698": {
+            "question": "dem\u00e1s",
+            "answer": "the rest",
+            "know_it": 0
+        },
+        "question_number_699": {
+            "question": "querido",
+            "answer": "Dear",
+            "know_it": 0
+        },
+        "question_number_700": {
+            "question": "duro",
+            "answer": "Lasted",
+            "know_it": 0
+        },
+        "question_number_701": {
+            "question": "poner",
+            "answer": "put",
+            "know_it": 0
+        },
+        "question_number_702": {
+            "question": "prueba",
+            "answer": "Test",
+            "know_it": 0
+        },
+        "question_number_703": {
+            "question": "mire",
+            "answer": "Look",
+            "know_it": 0
+        },
+        "question_number_704": {
+            "question": "tonto",
+            "answer": "fool",
+            "know_it": 0
+        },
+        "question_number_705": {
+            "question": "campo",
+            "answer": "countryside",
+            "know_it": 0
+        },
+        "question_number_706": {
+            "question": "siendo",
+            "answer": "being",
+            "know_it": 0
+        },
+        "question_number_707": {
+            "question": "diez",
+            "answer": "ten",
+            "know_it": 0
+        },
+        "question_number_708": {
+            "question": "\u00e9se",
+            "answer": "that",
+            "know_it": 0
+        },
+        "question_number_709": {
+            "question": "tranquilo",
+            "answer": "calm",
+            "know_it": 0
+        },
+        "question_number_710": {
+            "question": "asunto",
+            "answer": "affair",
+            "know_it": 0
+        },
+        "question_number_711": {
+            "question": "acab\u00f3",
+            "answer": "just",
+            "know_it": 0
+        },
+        "question_number_712": {
+            "question": "qu\u00e9date",
+            "answer": "stay",
+            "know_it": 0
+        },
+        "question_number_713": {
+            "question": "derecho",
+            "answer": "law",
+            "know_it": 0
+        },
+        "question_number_714": {
+            "question": "placer",
+            "answer": "pleasure",
+            "know_it": 0
+        },
+        "question_number_715": {
+            "question": "recuerda",
+            "answer": "remember",
+            "know_it": 0
+        },
+        "question_number_716": {
+            "question": "estuve",
+            "answer": "was",
+            "know_it": 0
+        },
+        "question_number_717": {
+            "question": "tratando",
+            "answer": "trying",
+            "know_it": 0
+        },
+        "question_number_718": {
+            "question": "ej\u00e9rcito",
+            "answer": "army",
+            "know_it": 0
+        },
+        "question_number_719": {
+            "question": "futuro",
+            "answer": "future",
+            "know_it": 0
+        },
+        "question_number_720": {
+            "question": "llevar",
+            "answer": "wear",
+            "know_it": 0
+        },
+        "question_number_721": {
+            "question": "compa\u00f1\u00eda",
+            "answer": "company",
+            "know_it": 0
+        },
+        "question_number_722": {
+            "question": "venido",
+            "answer": "I come",
+            "know_it": 0
+        },
+        "question_number_723": {
+            "question": "listos",
+            "answer": "Ready",
+            "know_it": 0
+        },
+        "question_number_724": {
+            "question": "haremos",
+            "answer": "will",
+            "know_it": 0
+        },
+        "question_number_725": {
+            "question": "sitio",
+            "answer": "place",
+            "know_it": 0
+        },
+        "question_number_726": {
+            "question": "verlo",
+            "answer": "see him",
+            "know_it": 0
+        },
+        "question_number_727": {
+            "question": "puesto",
+            "answer": "Market Stall",
+            "know_it": 0
+        },
+        "question_number_728": {
+            "question": "atenci\u00f3n",
+            "answer": "attention",
+            "know_it": 0
+        },
+        "question_number_729": {
+            "question": "sino",
+            "answer": "otherwise",
+            "know_it": 0
+        },
+        "question_number_730": {
+            "question": "cambiar",
+            "answer": "change",
+            "know_it": 0
+        },
+        "question_number_731": {
+            "question": "error",
+            "answer": "mistake",
+            "know_it": 0
+        },
+        "question_number_732": {
+            "question": "blanco",
+            "answer": "white",
+            "know_it": 0
+        },
+        "question_number_733": {
+            "question": "raro",
+            "answer": "rare",
+            "know_it": 0
+        },
+        "question_number_734": {
+            "question": "palabras",
+            "answer": "words",
+            "know_it": 0
+        },
+        "question_number_735": {
+            "question": "lleg\u00f3",
+            "answer": "I arrive",
+            "know_it": 0
+        },
+        "question_number_736": {
+            "question": "sal",
+            "answer": "Salt",
+            "know_it": 0
+        },
+        "question_number_737": {
+            "question": "pase",
+            "answer": "happens",
+            "know_it": 0
+        },
+        "question_number_738": {
+            "question": "mente",
+            "answer": "mind",
+            "know_it": 0
+        },
+        "question_number_739": {
+            "question": "sistema",
+            "answer": "system",
+            "know_it": 0
+        },
+        "question_number_740": {
+            "question": "pel\u00edcula",
+            "answer": "movie",
+            "know_it": 0
+        },
+        "question_number_741": {
+            "question": "anda",
+            "answer": "walk",
+            "know_it": 0
+        },
+        "question_number_742": {
+            "question": "ello",
+            "answer": "it",
+            "know_it": 0
+        },
+        "question_number_743": {
+            "question": "negocio",
+            "answer": "business",
+            "know_it": 0
+        },
+        "question_number_744": {
+            "question": "novia",
+            "answer": "girlfriend",
+            "know_it": 0
+        },
+        "question_number_745": {
+            "question": "permiso",
+            "answer": "permission",
+            "know_it": 0
+        },
+        "question_number_746": {
+            "question": "cre\u00ed",
+            "answer": "I believed",
+            "know_it": 0
+        },
+        "question_number_747": {
+            "question": "suena",
+            "answer": "sounds",
+            "know_it": 0
+        },
+        "question_number_748": {
+            "question": "ocurre",
+            "answer": "occurs",
+            "know_it": 0
+        },
+        "question_number_749": {
+            "question": "oficial",
+            "answer": "official",
+            "know_it": 0
+        },
+        "question_number_750": {
+            "question": "espere",
+            "answer": "Wait",
+            "know_it": 0
+        },
+        "question_number_751": {
+            "question": "aire",
+            "answer": "air",
+            "know_it": 0
+        },
+        "question_number_752": {
+            "question": "mat\u00f3",
+            "answer": "killed",
+            "know_it": 0
+        },
+        "question_number_753": {
+            "question": "regresar",
+            "answer": "to return",
+            "know_it": 0
+        },
+        "question_number_754": {
+            "question": "vio",
+            "answer": "he saw",
+            "know_it": 0
+        },
+        "question_number_755": {
+            "question": "hazlo",
+            "answer": "do it",
+            "know_it": 0
+        },
+        "question_number_756": {
+            "question": "trasero",
+            "answer": "rear",
+            "know_it": 0
+        },
+        "question_number_757": {
+            "question": "grupo",
+            "answer": "cluster",
+            "know_it": 0
+        },
+        "question_number_758": {
+            "question": "entendido",
+            "answer": "it is understood",
+            "know_it": 0
+        },
+        "question_number_759": {
+            "question": "se\u00f1orita",
+            "answer": "Miss",
+            "know_it": 0
+        },
+        "question_number_760": {
+            "question": "m\u00fasica",
+            "answer": "music",
+            "know_it": 0
+        },
+        "question_number_761": {
+            "question": "perra",
+            "answer": "bitch",
+            "know_it": 0
+        },
+        "question_number_762": {
+            "question": "conoce",
+            "answer": "known",
+            "know_it": 0
+        },
+        "question_number_763": {
+            "question": "empezar",
+            "answer": "start",
+            "know_it": 0
+        },
+        "question_number_764": {
+            "question": "siente",
+            "answer": "Feel",
+            "know_it": 0
+        },
+        "question_number_765": {
+            "question": "acabo",
+            "answer": "I finish",
+            "know_it": 0
+        },
+        "question_number_766": {
+            "question": "est\u00fapido",
+            "answer": "idiot",
+            "know_it": 0
+        },
+        "question_number_767": {
+            "question": "diferente",
+            "answer": "different",
+            "know_it": 0
+        },
+        "question_number_768": {
+            "question": "traje",
+            "answer": "costume",
+            "know_it": 0
+        },
+        "question_number_769": {
+            "question": "modo",
+            "answer": "mode",
+            "know_it": 0
+        },
+        "question_number_770": {
+            "question": "encontr\u00e9",
+            "answer": "I found",
+            "know_it": 0
+        },
+        "question_number_771": {
+            "question": "mensaje",
+            "answer": "message",
+            "know_it": 0
+        },
+        "question_number_772": {
+            "question": "llamada",
+            "answer": "call",
+            "know_it": 0
+        },
+        "question_number_773": {
+            "question": "navidad",
+            "answer": "Christmas",
+            "know_it": 0
+        },
+        "question_number_774": {
+            "question": "eras",
+            "answer": "ages",
+            "know_it": 0
+        },
+        "question_number_775": {
+            "question": "pena",
+            "answer": "grief",
+            "know_it": 0
+        },
+        "question_number_776": {
+            "question": "largo",
+            "answer": "length",
+            "know_it": 0
+        },
+        "question_number_777": {
+            "question": "entra",
+            "answer": "enters",
+            "know_it": 0
+        },
+        "question_number_778": {
+            "question": "piso",
+            "answer": "flat",
+            "know_it": 0
+        },
+        "question_number_779": {
+            "question": "foto",
+            "answer": "Photo",
+            "know_it": 0
+        },
+        "question_number_780": {
+            "question": "dijeron",
+            "answer": "They said",
+            "know_it": 0
+        },
+        "question_number_781": {
+            "question": "m\u00e9dico",
+            "answer": "medical",
+            "know_it": 0
+        },
+        "question_number_782": {
+            "question": "accidente",
+            "answer": "accident",
+            "know_it": 0
+        },
+        "question_number_783": {
+            "question": "fuiste",
+            "answer": "you were",
+            "know_it": 0
+        },
+        "question_number_784": {
+            "question": "imposible",
+            "answer": "impossible",
+            "know_it": 0
+        },
+        "question_number_785": {
+            "question": "podr\u00edamos",
+            "answer": "we could",
+            "know_it": 0
+        },
+        "question_number_786": {
+            "question": "l\u00ednea",
+            "answer": "line",
+            "know_it": 0
+        },
+        "question_number_787": {
+            "question": "propia",
+            "answer": "own",
+            "know_it": 0
+        },
+        "question_number_788": {
+            "question": "barco",
+            "answer": "boat",
+            "know_it": 0
+        },
+        "question_number_789": {
+            "question": "ganar",
+            "answer": "gain",
+            "know_it": 0
+        },
+        "question_number_790": {
+            "question": "normal",
+            "answer": "normal",
+            "know_it": 0
+        },
+        "question_number_791": {
+            "question": "segundos",
+            "answer": "seconds",
+            "know_it": 0
+        },
+        "question_number_792": {
+            "question": "vive",
+            "answer": "it lives",
+            "know_it": 0
+        },
+        "question_number_793": {
+            "question": "mitad",
+            "answer": "half",
+            "know_it": 0
+        },
+        "question_number_794": {
+            "question": "quiera",
+            "answer": "want",
+            "know_it": 0
+        },
+        "question_number_795": {
+            "question": "tras",
+            "answer": "after",
+            "know_it": 0
+        },
+        "question_number_796": {
+            "question": "decirle",
+            "answer": "Tell him",
+            "know_it": 0
+        },
+        "question_number_797": {
+            "question": "lindo",
+            "answer": "pretty",
+            "know_it": 0
+        },
+        "question_number_798": {
+            "question": "funciona",
+            "answer": "works",
+            "know_it": 0
+        },
+        "question_number_799": {
+            "question": "programa",
+            "answer": "Program",
+            "know_it": 0
+        },
+        "question_number_800": {
+            "question": "vine",
+            "answer": "came",
+            "know_it": 0
+        },
+        "question_number_801": {
+            "question": "abre",
+            "answer": "opens",
+            "know_it": 0
+        },
+        "question_number_802": {
+            "question": "sean",
+            "answer": "Sean",
+            "know_it": 0
+        },
+        "question_number_803": {
+            "question": "pagar",
+            "answer": "to pay",
+            "know_it": 0
+        },
+        "question_number_804": {
+            "question": "fotos",
+            "answer": "Photos",
+            "know_it": 0
+        },
+        "question_number_805": {
+            "question": "centro",
+            "answer": "center",
+            "know_it": 0
+        },
+        "question_number_806": {
+            "question": "supone",
+            "answer": "It supposes",
+            "know_it": 0
+        },
+        "question_number_807": {
+            "question": "basura",
+            "answer": "trash",
+            "know_it": 0
+        },
+        "question_number_808": {
+            "question": "situaci\u00f3n",
+            "answer": "situation",
+            "know_it": 0
+        },
+        "question_number_809": {
+            "question": "mejores",
+            "answer": "top",
+            "know_it": 0
+        },
+        "question_number_810": {
+            "question": "vienen",
+            "answer": "they come",
+            "know_it": 0
+        },
+        "question_number_811": {
+            "question": "encanta",
+            "answer": "loves",
+            "know_it": 0
+        },
+        "question_number_812": {
+            "question": "marido",
+            "answer": "husband",
+            "know_it": 0
+        },
+        "question_number_813": {
+            "question": "personal",
+            "answer": "staff",
+            "know_it": 0
+        },
+        "question_number_814": {
+            "question": "maestro",
+            "answer": "teacher",
+            "know_it": 0
+        },
+        "question_number_815": {
+            "question": "hambre",
+            "answer": "hunger",
+            "know_it": 0
+        },
+        "question_number_816": {
+            "question": "ataque",
+            "answer": "attack",
+            "know_it": 0
+        },
+        "question_number_817": {
+            "question": "culo",
+            "answer": "ass",
+            "know_it": 0
+        },
+        "question_number_818": {
+            "question": "dale",
+            "answer": "Go ahead",
+            "know_it": 0
+        },
+        "question_number_819": {
+            "question": "pie",
+            "answer": "foot",
+            "know_it": 0
+        },
+        "question_number_820": {
+            "question": "conseguir",
+            "answer": "get",
+            "know_it": 0
+        },
+        "question_number_821": {
+            "question": "trabajando",
+            "answer": "working",
+            "know_it": 0
+        },
+        "question_number_822": {
+            "question": "gracioso",
+            "answer": "funny",
+            "know_it": 0
+        },
+        "question_number_823": {
+            "question": "dej\u00f3",
+            "answer": "let",
+            "know_it": 0
+        },
+        "question_number_824": {
+            "question": "pudo",
+            "answer": "could",
+            "know_it": 0
+        },
+        "question_number_825": {
+            "question": "derecha",
+            "answer": "right",
+            "know_it": 0
+        },
+        "question_number_826": {
+            "question": "izquierda",
+            "answer": "left",
+            "know_it": 0
+        },
+        "question_number_827": {
+            "question": "pr\u00f3xima",
+            "answer": "next",
+            "know_it": 0
+        },
+        "question_number_828": {
+            "question": "pobre",
+            "answer": "poor",
+            "know_it": 0
+        },
+        "question_number_829": {
+            "question": "respuesta",
+            "answer": "response",
+            "know_it": 0
+        },
+        "question_number_830": {
+            "question": "tipos",
+            "answer": "types",
+            "know_it": 0
+        },
+        "question_number_831": {
+            "question": "sentir",
+            "answer": "feel",
+            "know_it": 0
+        },
+        "question_number_832": {
+            "question": "ten\u00edas",
+            "answer": "You had",
+            "know_it": 0
+        },
+        "question_number_833": {
+            "question": "pude",
+            "answer": "I could",
+            "know_it": 0
+        },
+        "question_number_834": {
+            "question": "darle",
+            "answer": "give him",
+            "know_it": 0
+        },
+        "question_number_835": {
+            "question": "voz",
+            "answer": "voice",
+            "know_it": 0
+        },
+        "question_number_836": {
+            "question": "amiga",
+            "answer": "friend",
+            "know_it": 0
+        },
+        "question_number_837": {
+            "question": "gustan",
+            "answer": "like",
+            "know_it": 0
+        },
+        "question_number_838": {
+            "question": "vista",
+            "answer": "view",
+            "know_it": 0
+        },
+        "question_number_839": {
+            "question": "salvo",
+            "answer": "except",
+            "know_it": 0
+        },
+        "question_number_840": {
+            "question": "loca",
+            "answer": "crazy",
+            "know_it": 0
+        },
+        "question_number_841": {
+            "question": "hotel",
+            "answer": "hotel",
+            "know_it": 0
+        },
+        "question_number_842": {
+            "question": "hicieron",
+            "answer": "they made",
+            "know_it": 0
+        },
+        "question_number_843": {
+            "question": "ten",
+            "answer": "Ten",
+            "know_it": 0
+        },
+        "question_number_844": {
+            "question": "temo",
+            "answer": "I fear",
+            "know_it": 0
+        },
+        "question_number_845": {
+            "question": "se\u00f1al",
+            "answer": "sign",
+            "know_it": 0
+        },
+        "question_number_846": {
+            "question": "pelo",
+            "answer": "hair",
+            "know_it": 0
+        },
+        "question_number_847": {
+            "question": "llevo",
+            "answer": "wear",
+            "know_it": 0
+        },
+        "question_number_848": {
+            "question": "ayer",
+            "answer": "Yesterday",
+            "know_it": 0
+        },
+        "question_number_849": {
+            "question": "das",
+            "answer": "you give",
+            "know_it": 0
+        },
+        "question_number_850": {
+            "question": "nena",
+            "answer": "chick",
+            "know_it": 0
+        },
+        "question_number_851": {
+            "question": "servicio",
+            "answer": "service",
+            "know_it": 0
+        },
+        "question_number_852": {
+            "question": "tren",
+            "answer": "train",
+            "know_it": 0
+        },
+        "question_number_853": {
+            "question": "bonito",
+            "answer": "nice",
+            "know_it": 0
+        },
+        "question_number_854": {
+            "question": "mes",
+            "answer": "month",
+            "know_it": 0
+        },
+        "question_number_855": {
+            "question": "tendr\u00e1",
+            "answer": "will have",
+            "know_it": 0
+        },
+        "question_number_856": {
+            "question": "tendr\u00e1s",
+            "answer": "you will have",
+            "know_it": 0
+        },
+        "question_number_857": {
+            "question": "edad",
+            "answer": "age",
+            "know_it": 0
+        },
+        "question_number_858": {
+            "question": "ellas",
+            "answer": "they",
+            "know_it": 0
+        },
+        "question_number_859": {
+            "question": "hermosa",
+            "answer": "beautifull",
+            "know_it": 0
+        },
+        "question_number_860": {
+            "question": "honor",
+            "answer": "honor",
+            "know_it": 0
+        },
+        "question_number_861": {
+            "question": "simplemente",
+            "answer": "simply",
+            "know_it": 0
+        },
+        "question_number_862": {
+            "question": "llamas",
+            "answer": "calls",
+            "know_it": 0
+        },
+        "question_number_863": {
+            "question": "tengas",
+            "answer": "Have",
+            "know_it": 0
+        },
+        "question_number_864": {
+            "question": "corre",
+            "answer": "runs",
+            "know_it": 0
+        },
+        "question_number_865": {
+            "question": "baja",
+            "answer": "short",
+            "know_it": 0
+        },
+        "question_number_866": {
+            "question": "sol",
+            "answer": "sun",
+            "know_it": 0
+        },
+        "question_number_867": {
+            "question": "si\u00e9ntate",
+            "answer": "Sit down",
+            "know_it": 0
+        },
+        "question_number_868": {
+            "question": "dan",
+            "answer": "give",
+            "know_it": 0
+        },
+        "question_number_869": {
+            "question": "humano",
+            "answer": "human",
+            "know_it": 0
+        },
+        "question_number_870": {
+            "question": "divertido",
+            "answer": "funny",
+            "know_it": 0
+        },
+        "question_number_871": {
+            "question": "sexo",
+            "answer": "sex",
+            "know_it": 0
+        },
+        "question_number_872": {
+            "question": "vuelto",
+            "answer": "turned",
+            "know_it": 0
+        },
+        "question_number_873": {
+            "question": "peligro",
+            "answer": "danger",
+            "know_it": 0
+        },
+        "question_number_874": {
+            "question": "mesa",
+            "answer": "table",
+            "know_it": 0
+        },
+        "question_number_875": {
+            "question": "siguiente",
+            "answer": "Next",
+            "know_it": 0
+        },
+        "question_number_876": {
+            "question": "hablo",
+            "answer": "talked",
+            "know_it": 0
+        },
+        "question_number_877": {
+            "question": "disculpa",
+            "answer": "Sorry",
+            "know_it": 0
+        },
+        "question_number_878": {
+            "question": "decirme",
+            "answer": "Tell me",
+            "know_it": 0
+        },
+        "question_number_879": {
+            "question": "caja",
+            "answer": "cash register",
+            "know_it": 0
+        },
+        "question_number_880": {
+            "question": "negocios",
+            "answer": "business",
+            "know_it": 0
+        },
+        "question_number_881": {
+            "question": "misi\u00f3n",
+            "answer": "mission",
+            "know_it": 0
+        },
+        "question_number_882": {
+            "question": "silencio",
+            "answer": "silence",
+            "know_it": 0
+        },
+        "question_number_883": {
+            "question": "sale",
+            "answer": "comes out",
+            "know_it": 0
+        },
+        "question_number_884": {
+            "question": "llegado",
+            "answer": "arrived",
+            "know_it": 0
+        },
+        "question_number_885": {
+            "question": "estar\u00eda",
+            "answer": "It would",
+            "know_it": 0
+        },
+        "question_number_886": {
+            "question": "regreso",
+            "answer": "Return",
+            "know_it": 0
+        },
+        "question_number_887": {
+            "question": "media",
+            "answer": "half",
+            "know_it": 0
+        },
+        "question_number_888": {
+            "question": "estan",
+            "answer": "are",
+            "know_it": 0
+        },
+        "question_number_889": {
+            "question": "propio",
+            "answer": "own self",
+            "know_it": 0
+        },
+        "question_number_890": {
+            "question": "oro",
+            "answer": "Prayed",
+            "know_it": 0
+        },
+        "question_number_891": {
+            "question": "enseguida",
+            "answer": "right away",
+            "know_it": 0
+        },
+        "question_number_892": {
+            "question": "linda",
+            "answer": "pretty",
+            "know_it": 0
+        },
+        "question_number_893": {
+            "question": "prometo",
+            "answer": "I promise",
+            "know_it": 0
+        },
+        "question_number_894": {
+            "question": "esposo",
+            "answer": "husband",
+            "know_it": 0
+        },
+        "question_number_895": {
+            "question": "norte",
+            "answer": "north",
+            "know_it": 0
+        },
+        "question_number_896": {
+            "question": "hubo",
+            "answer": "there was",
+            "know_it": 0
+        },
+        "question_number_897": {
+            "question": "juro",
+            "answer": "I swear",
+            "know_it": 0
+        },
+        "question_number_898": {
+            "question": "muerta",
+            "answer": "dead",
+            "know_it": 0
+        },
+        "question_number_899": {
+            "question": "interesante",
+            "answer": "interesting",
+            "know_it": 0
+        },
+        "question_number_900": {
+            "question": "pensaba",
+            "answer": "thought",
+            "know_it": 0
+        },
+        "question_number_901": {
+            "question": "busca",
+            "answer": "search",
+            "know_it": 0
+        },
+        "question_number_902": {
+            "question": "terminar",
+            "answer": "end up",
+            "know_it": 0
+        },
+        "question_number_903": {
+            "question": "tendr\u00e9",
+            "answer": "I will have",
+            "know_it": 0
+        },
+        "question_number_904": {
+            "question": "completamente",
+            "answer": "completely",
+            "know_it": 0
+        },
+        "question_number_905": {
+            "question": "cita",
+            "answer": "date",
+            "know_it": 0
+        },
+        "question_number_906": {
+            "question": "siete",
+            "answer": "seven",
+            "know_it": 0
+        },
+        "question_number_907": {
+            "question": "cumplea\u00f1os",
+            "answer": "birthday",
+            "know_it": 0
+        },
+        "question_number_908": {
+            "question": "abogado",
+            "answer": "attorney",
+            "know_it": 0
+        },
+        "question_number_909": {
+            "question": "alrededor",
+            "answer": "around",
+            "know_it": 0
+        },
+        "question_number_910": {
+            "question": "cerebro",
+            "answer": "brain",
+            "know_it": 0
+        },
+        "question_number_911": {
+            "question": "porqu\u00e9",
+            "answer": "because",
+            "know_it": 0
+        },
+        "question_number_912": {
+            "question": "llave",
+            "answer": "wrench",
+            "know_it": 0
+        },
+        "question_number_913": {
+            "question": "santo",
+            "answer": "holy",
+            "know_it": 0
+        },
+        "question_number_914": {
+            "question": "hermoso",
+            "answer": "handsome",
+            "know_it": 0
+        },
+        "question_number_915": {
+            "question": "necesario",
+            "answer": "necessary",
+            "know_it": 0
+        },
+        "question_number_916": {
+            "question": "edificio",
+            "answer": "building",
+            "know_it": 0
+        },
+        "question_number_917": {
+            "question": "irnos",
+            "answer": "Go",
+            "know_it": 0
+        },
+        "question_number_918": {
+            "question": "aun",
+            "answer": "still",
+            "know_it": 0
+        },
+        "question_number_919": {
+            "question": "tendremos",
+            "answer": "we will have",
+            "know_it": 0
+        },
+        "question_number_920": {
+            "question": "vayas",
+            "answer": "go",
+            "know_it": 0
+        },
+        "question_number_921": {
+            "question": "doy",
+            "answer": "give",
+            "know_it": 0
+        },
+        "question_number_922": {
+            "question": "trae",
+            "answer": "Bring",
+            "know_it": 0
+        },
+        "question_number_923": {
+            "question": "sali\u00f3",
+            "answer": "he left",
+            "know_it": 0
+        },
+        "question_number_924": {
+            "question": "ley",
+            "answer": "law",
+            "know_it": 0
+        },
+        "question_number_925": {
+            "question": "ahi",
+            "answer": "over there",
+            "know_it": 0
+        },
+        "question_number_926": {
+            "question": "verdadero",
+            "answer": "real",
+            "know_it": 0
+        },
+        "question_number_927": {
+            "question": "pelea",
+            "answer": "Fight",
+            "know_it": 0
+        },
+        "question_number_928": {
+            "question": "banco",
+            "answer": "bank",
+            "know_it": 0
+        },
+        "question_number_929": {
+            "question": "terrible",
+            "answer": "terrible",
+            "know_it": 0
+        },
+        "question_number_930": {
+            "question": "calma",
+            "answer": "Calm down",
+            "know_it": 0
+        },
+        "question_number_931": {
+            "question": "cena",
+            "answer": "Dinner",
+            "know_it": 0
+        },
+        "question_number_932": {
+            "question": "dar\u00e9",
+            "answer": "I will give",
+            "know_it": 0
+        },
+        "question_number_933": {
+            "question": "gobierno",
+            "answer": "government",
+            "know_it": 0
+        },
+        "question_number_934": {
+            "question": "comprar",
+            "answer": "to buy",
+            "know_it": 0
+        },
+        "question_number_935": {
+            "question": "creen",
+            "answer": "They believe",
+            "know_it": 0
+        },
+        "question_number_936": {
+            "question": "sargento",
+            "answer": "sergeant",
+            "know_it": 0
+        },
+        "question_number_937": {
+            "question": "destino",
+            "answer": "destiny",
+            "know_it": 0
+        },
+        "question_number_938": {
+            "question": "existe",
+            "answer": "exists",
+            "know_it": 0
+        },
+        "question_number_939": {
+            "question": "hac\u00eda",
+            "answer": "towards",
+            "know_it": 0
+        },
+        "question_number_940": {
+            "question": "novio",
+            "answer": "boyfriend",
+            "know_it": 0
+        },
+        "question_number_941": {
+            "question": "sala",
+            "answer": "living room",
+            "know_it": 0
+        },
+        "question_number_942": {
+            "question": "trav\u00e9s",
+            "answer": "through",
+            "know_it": 0
+        },
+        "question_number_943": {
+            "question": "regalo",
+            "answer": "gift",
+            "know_it": 0
+        },
+        "question_number_944": {
+            "question": "iglesia",
+            "answer": "church",
+            "know_it": 0
+        },
+        "question_number_945": {
+            "question": "dec\u00eda",
+            "answer": "He said",
+            "know_it": 0
+        },
+        "question_number_946": {
+            "question": "cualquiera",
+            "answer": "any",
+            "know_it": 0
+        },
+        "question_number_947": {
+            "question": "excelente",
+            "answer": "Excellent",
+            "know_it": 0
+        },
+        "question_number_948": {
+            "question": "esperen",
+            "answer": "Wait",
+            "know_it": 0
+        },
+        "question_number_949": {
+            "question": "deseo",
+            "answer": "desire",
+            "know_it": 0
+        },
+        "question_number_950": {
+            "question": "alma",
+            "answer": "soul",
+            "know_it": 0
+        },
+        "question_number_951": {
+            "question": "diablo",
+            "answer": "Devil",
+            "know_it": 0
+        },
+        "question_number_952": {
+            "question": "deje",
+            "answer": "leave",
+            "know_it": 0
+        },
+        "question_number_953": {
+            "question": "cu\u00e1ntos",
+            "answer": "many",
+            "know_it": 0
+        },
+        "question_number_954": {
+            "question": "espada",
+            "answer": "sword",
+            "know_it": 0
+        },
+        "question_number_955": {
+            "question": "est\u00e1bamos",
+            "answer": "We were",
+            "know_it": 0
+        },
+        "question_number_956": {
+            "question": "carne",
+            "answer": "meat",
+            "know_it": 0
+        },
+        "question_number_957": {
+            "question": "maravilloso",
+            "answer": "wonderful",
+            "know_it": 0
+        },
+        "question_number_958": {
+            "question": "vidas",
+            "answer": "lives",
+            "know_it": 0
+        },
+        "question_number_959": {
+            "question": "sucedi\u00f3",
+            "answer": "happened",
+            "know_it": 0
+        },
+        "question_number_960": {
+            "question": "o\u00ed",
+            "answer": "I heard",
+            "know_it": 0
+        },
+        "question_number_961": {
+            "question": "peligroso",
+            "answer": "dangerous",
+            "know_it": 0
+        },
+        "question_number_962": {
+            "question": "direcci\u00f3n",
+            "answer": "address",
+            "know_it": 0
+        },
+        "question_number_963": {
+            "question": "libertad",
+            "answer": "freedom",
+            "know_it": 0
+        },
+        "question_number_964": {
+            "question": "jes\u00fas",
+            "answer": "Jesus",
+            "know_it": 0
+        },
+        "question_number_965": {
+            "question": "ocurri\u00f3",
+            "answer": "It occurred",
+            "know_it": 0
+        },
+        "question_number_966": {
+            "question": "ver\u00e9",
+            "answer": "I will see",
+            "know_it": 0
+        },
+        "question_number_967": {
+            "question": "sue\u00f1os",
+            "answer": "dreams",
+            "know_it": 0
+        },
+        "question_number_968": {
+            "question": "pudiera",
+            "answer": "could",
+            "know_it": 0
+        },
+        "question_number_969": {
+            "question": "detective",
+            "answer": "detective",
+            "know_it": 0
+        },
+        "question_number_970": {
+            "question": "sorpresa",
+            "answer": "surprise",
+            "know_it": 0
+        },
+        "question_number_971": {
+            "question": "tuya",
+            "answer": "yours",
+            "know_it": 0
+        },
+        "question_number_972": {
+            "question": "pies",
+            "answer": "feet",
+            "know_it": 0
+        },
+        "question_number_973": {
+            "question": "club",
+            "answer": "club",
+            "know_it": 0
+        },
+        "question_number_974": {
+            "question": "terminado",
+            "answer": "finished",
+            "know_it": 0
+        },
+        "question_number_975": {
+            "question": "infierno",
+            "answer": "hell",
+            "know_it": 0
+        },
+        "question_number_976": {
+            "question": "cre\u00eda",
+            "answer": "I believed",
+            "know_it": 0
+        },
+        "question_number_977": {
+            "question": "luna",
+            "answer": "Moon",
+            "know_it": 0
+        },
+        "question_number_978": {
+            "question": "salvar",
+            "answer": "save",
+            "know_it": 0
+        },
+        "question_number_979": {
+            "question": "carta",
+            "answer": "letter",
+            "know_it": 0
+        },
+        "question_number_980": {
+            "question": "est\u00e9s",
+            "answer": "be",
+            "know_it": 0
+        },
+        "question_number_981": {
+            "question": "cielos",
+            "answer": "Heavens",
+            "know_it": 0
+        },
+        "question_number_982": {
+            "question": "teniente",
+            "answer": "lieutenant",
+            "know_it": 0
+        },
+        "question_number_983": {
+            "question": "encuentra",
+            "answer": "find",
+            "know_it": 0
+        },
+        "question_number_984": {
+            "question": "veamos",
+            "answer": "let's see",
+            "know_it": 0
+        },
+        "question_number_985": {
+            "question": "quise",
+            "answer": "I wanted",
+            "know_it": 0
+        },
+        "question_number_986": {
+            "question": "esc\u00fachame",
+            "answer": "listen to me",
+            "know_it": 0
+        },
+        "question_number_987": {
+            "question": "necesitan",
+            "answer": "They need",
+            "know_it": 0
+        },
+        "question_number_988": {
+            "question": "ambos",
+            "answer": "both of them",
+            "know_it": 0
+        },
+        "question_number_989": {
+            "question": "decisi\u00f3n",
+            "answer": "decision",
+            "know_it": 0
+        },
+        "question_number_990": {
+            "question": "enemigo",
+            "answer": "enemy",
+            "know_it": 0
+        },
+        "question_number_991": {
+            "question": "hicimos",
+            "answer": "we did",
+            "know_it": 0
+        },
+        "question_number_992": {
+            "question": "dulce",
+            "answer": "sweet",
+            "know_it": 0
+        },
+        "question_number_993": {
+            "question": "pruebas",
+            "answer": "tests",
+            "know_it": 0
+        },
+        "question_number_994": {
+            "question": "quer\u00edas",
+            "answer": "You wanted",
+            "know_it": 0
+        },
+        "question_number_995": {
+            "question": "abuelo",
+            "answer": "grandfather",
+            "know_it": 0
+        },
+        "question_number_996": {
+            "question": "totalmente",
+            "answer": "totally",
+            "know_it": 0
+        },
+        "question_number_997": {
+            "question": "mirando",
+            "answer": "looking at",
+            "know_it": 0
+        },
+        "question_number_998": {
+            "question": "vayan",
+            "answer": "go",
+            "know_it": 0
+        },
+        "question_number_999": {
+            "question": "carrera",
+            "answer": "race",
+            "know_it": 0
+        }
+    }
+}
